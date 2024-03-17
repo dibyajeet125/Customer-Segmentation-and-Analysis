@@ -1,0 +1,1001 @@
+UserID,Age,Gender,Location,Item Name,Brand,Price,Rating,Number of Reviews,Purchase History,Search History,Wishlist,Cart Items,Click History,Transaction No.,Transaction Date
+User14,40,Female,Russia,Watch,Henry-Johnson,205.9,2.8,624,True,False,False,False,False,1,2023-07-08 00:00:00
+User8,50,Male,Russia,T-Shirt,Lawson-Tucker,132.02,3.1,794,False,False,False,True,True,2,2023-03-14 00:00:00
+User2,59,Male,India,Headphones,Gomez LLC,384.34,1.4,619,False,False,False,False,False,3,2022-10-17 00:00:00
+User6,48,Female,Argentina,T-Shirt,Morris-Miller,341.77,3.0,336,True,True,True,False,True,4,2022-04-02 00:00:00
+User5,49,Female,Singapore,Bag,Waters-Hall,309.58,3.6,973,True,True,True,False,False,5,2022-01-29 00:00:00
+User2,53,Female,USA,T-Shirt,Thompson-Carlson,457.28,2.2,283,True,True,True,True,True,6,2023-04-03 00:00:00
+User16,41,Female,Argentina,Shoes,Palmer-Boyle,263.21,3.4,973,False,True,True,False,True,7,2022-06-24 00:00:00
+User1,39,Female,Japan,Bag,Bennett-Scott,269.57,3.4,792,True,True,False,False,True,8,2022-06-16 00:00:00
+User20,18,Female,Greece,Jeans,Anderson PLC,395.06,1.8,493,True,False,False,True,False,9,2023-03-07 00:00:00
+User6,43,Male,Singapore,T-Shirt,Hinton-Jones,150.47,3.3,16,False,False,True,False,False,10,2022-09-03 00:00:00
+User14,44,Female,Japan,T-Shirt,"Ramirez, Davis and Blevins",469.32,3.8,744,True,True,True,True,False,11,2022-12-30 00:00:00
+User19,19,Female,Australia,Watch,"Hernandez, Fowler and Young",41.89,4.2,585,False,False,False,False,False,12,2023-04-27 00:00:00
+User13,19,Male,Australia,Watch,Kline Inc,246.66,2.4,465,True,False,False,True,False,13,2022-03-10 00:00:00
+User12,38,Female,France,Laptop,Russell-Thompson,161.78,3.4,744,False,True,False,True,False,14,2023-05-26 00:00:00
+User18,54,Male,Belgium,Laptop,Thompson Group,23.62,3.2,24,True,False,True,False,True,15,2022-04-29 00:00:00
+User18,22,Female,India,Sunglasses,"Fuentes, Craig and Watts",115.55,2.8,494,False,True,False,True,True,16,2022-07-09 00:00:00
+User14,31,Female,Argentina,Sunglasses,Wilson-Booker,435.44,1.9,345,False,False,False,False,True,17,2023-11-06 00:00:00
+User3,28,Female,Russia,Perfume,"Lucas, Mullen and Weber",484.88,2.5,349,True,True,True,False,True,18,2022-12-23 00:00:00
+User4,25,Female,France,Sunglasses,Parks-Hopkins,204.62,2.6,71,False,True,False,False,False,19,2022-04-09 00:00:00
+User10,19,Male,Italy,T-Shirt,Barnett-Jones,131.99,4.1,663,True,True,False,True,True,20,2022-05-10 00:00:00
+User13,24,Female,UK,Watch,"Kelley, White and King",370.02,1.4,961,True,True,True,True,True,21,2023-10-11 00:00:00
+User14,40,Female,UK,Shoes,"Thomas, Herrera and Ramirez",218.4,1.3,110,False,True,False,True,True,22,2022-11-15 00:00:00
+User13,29,Female,UAE,Jeans,Hunter PLC,155.73,3.5,458,True,False,False,True,True,23,2023-04-10 00:00:00
+User5,56,Female,Singapore,Laptop,Cohen Group,119.2,4.0,79,True,True,False,False,True,24,2022-01-16 00:00:00
+User17,18,Male,Greece,T-Shirt,"Johnson, Shelton and Wiley",311.55,3.5,788,True,True,False,False,True,25,2022-05-10 00:00:00
+User18,29,Male,Spain,Laptop,Saunders-Cline,84.58,3.5,70,True,False,True,True,True,26,2022-02-07 00:00:00
+User19,24,Male,India,Watch,"Gutierrez, Larson and Benson",267.38,4.8,246,False,True,False,True,True,27,2022-09-27 00:00:00
+User10,56,Male,Greece,Shoes,"Johnson, Jones and Smith",92.37,2.6,12,True,False,False,True,False,28,2023-07-21 00:00:00
+User16,54,Male,Australia,Bag,"Cordova, Berg and Ramirez",377.58,1.4,976,True,True,True,True,False,29,2023-08-22 00:00:00
+User19,20,Female,Greece,Watch,Adams-Hill,427.57,4.2,722,False,True,True,True,False,30,2023-11-26 00:00:00
+User9,60,Female,New Zealand,Laptop,"Moore, Roberts and Zavala",26.24,4.7,460,True,False,True,True,False,31,2023-03-29 00:00:00
+User8,53,Male,France,Laptop,"Jones, Graham and Thompson",232.92,2.4,197,False,True,True,True,True,32,2023-12-10 00:00:00
+User15,33,Male,Spain,Jeans,Le Group,257.38,4.2,53,False,False,True,True,False,33,2022-08-25 00:00:00
+User4,47,Female,Australia,Smartphone,"Bryant, Hawkins and Weiss",47.62,4.3,380,True,False,True,False,True,34,2023-05-18 00:00:00
+User15,35,Male,Spain,Laptop,Kane Ltd,228.8,4.4,327,True,False,False,False,False,35,2022-06-25 00:00:00
+User3,44,Male,Belgium,Headphones,"Vaughn, Eaton and Wood",16.82,3.0,700,False,False,False,False,False,36,2022-04-30 00:00:00
+User16,50,Male,UK,Shoes,Davis LLC,396.11,1.3,808,True,True,True,False,False,37,2022-10-03 00:00:00
+User12,56,Female,Singapore,Perfume,Tucker LLC,113.73,4.2,299,True,True,True,False,False,38,2022-07-21 00:00:00
+User20,40,Male,USA,Sunglasses,Hood PLC,354.9,2.2,945,True,False,False,False,False,39,2022-07-20 00:00:00
+User7,33,Female,Japan,Perfume,"Hines, Murphy and Reynolds",347.95,3.3,125,True,False,False,True,False,40,2023-02-15 00:00:00
+User15,52,Male,Australia,Perfume,Vasquez-James,298.9,4.3,390,True,False,False,False,True,41,2022-06-13 00:00:00
+User2,54,Male,UAE,Sunglasses,"Barnes, Thompson and Sanders",65.8,1.4,119,True,True,True,False,True,42,2022-03-03 00:00:00
+User6,52,Female,Russia,Watch,Hernandez and Sons,192.44,4.5,377,True,True,False,True,False,43,2023-02-06 00:00:00
+User14,58,Female,Japan,Bag,"Clarke, Valencia and Robles",335.27,2.8,233,True,False,True,True,False,44,2022-11-05 00:00:00
+User19,60,Female,Belgium,Headphones,"Clay, Richards and Freeman",427.55,1.1,453,True,True,False,False,False,45,2023-09-13 00:00:00
+User18,60,Male,Brazil,T-Shirt,West PLC,468.8,4.8,946,True,True,True,False,False,46,2023-11-17 00:00:00
+User7,37,Female,UAE,Shoes,"Perry, Johnson and Williams",203.46,3.3,470,True,True,False,True,True,47,2023-07-21 00:00:00
+User12,25,Male,New Zealand,Smartphone,Williams-Anderson,367.0,3.1,673,True,False,True,False,False,48,2023-11-07 00:00:00
+User1,39,Male,Switzerland,Laptop,Chen-Terry,369.52,4.7,138,False,False,True,True,True,49,2023-08-05 00:00:00
+User9,44,Female,Italy,Bag,"Hickman, Adams and Pena",101.05,2.8,561,True,False,False,True,False,50,2022-12-15 00:00:00
+User3,29,Male,Switzerland,Smartphone,Williams Ltd,73.39,4.5,996,True,True,False,True,True,51,2022-12-24 00:00:00
+User20,60,Male,Italy,Perfume,Townsend Ltd,107.34,4.5,507,False,False,True,False,True,52,2022-02-05 00:00:00
+User17,60,Male,Russia,Headphones,Williams Group,28.52,2.0,117,False,True,True,False,False,53,2022-10-26 00:00:00
+User16,39,Male,New Zealand,Perfume,Hall-Summers,87.14,2.4,559,True,False,False,False,True,54,2023-10-04 00:00:00
+User18,58,Male,Italy,Shoes,"Bell, Moore and Fisher",60.67,1.7,684,False,False,False,True,False,55,2023-07-19 00:00:00
+User7,46,Male,Australia,Perfume,Christensen-Wolfe,244.17,2.8,338,False,False,True,False,True,56,2023-06-16 00:00:00
+User1,37,Male,Argentina,Laptop,Hill Ltd,430.75,4.7,246,True,False,True,True,True,57,2022-05-06 00:00:00
+User13,61,Male,USA,Perfume,Wood-Casey,289.81,4.7,990,True,False,True,False,False,58,2022-04-27 00:00:00
+User14,22,Female,France,T-Shirt,"Burns, Fox and Taylor",364.32,2.2,205,True,False,True,False,True,59,2022-04-21 00:00:00
+User5,23,Male,Brazil,Jeans,Dunlap-Hunt,215.82,1.9,879,False,False,True,False,True,60,2022-11-04 00:00:00
+User6,40,Female,Singapore,Perfume,"Thomas, Weeks and Mcdaniel",440.21,3.3,572,False,True,False,True,False,61,2023-11-07 00:00:00
+User15,38,Female,New Zealand,Jeans,"Mcdonald, Gomez and Austin",418.91,4.4,358,True,False,False,True,False,62,2022-07-09 00:00:00
+User3,35,Male,Argentina,T-Shirt,Reynolds-Castillo,473.87,3.1,87,False,False,False,False,True,63,2022-05-30 00:00:00
+User13,47,Male,Greece,T-Shirt,Smith Group,353.83,4.4,367,True,True,True,False,True,64,2023-09-11 00:00:00
+User13,21,Female,New Zealand,Perfume,Sanders-Martinez,40.1,2.7,352,True,True,False,True,False,65,2023-08-25 00:00:00
+User2,24,Male,India,Sunglasses,Wagner Inc,258.29,2.2,602,False,True,False,False,False,66,2023-11-20 00:00:00
+User15,41,Female,India,Laptop,Nelson-Phillips,339.21,2.2,248,True,False,False,True,False,67,2023-02-04 00:00:00
+User13,59,Female,UAE,Jeans,Dalton PLC,177.48,3.7,531,True,False,True,False,True,68,2022-06-07 00:00:00
+User8,59,Female,UK,Sunglasses,Harris and Sons,103.0,3.1,245,False,True,True,False,False,69,2023-07-19 00:00:00
+User10,28,Male,Japan,T-Shirt,Valenzuela-Velazquez,181.22,3.1,577,True,True,False,True,True,70,2023-02-19 00:00:00
+User11,62,Male,UK,Jeans,Smith-Sullivan,45.88,1.4,578,True,False,True,False,False,71,2022-08-20 00:00:00
+User1,29,Male,Brazil,Smartphone,Cunningham-Hall,157.28,2.1,835,False,True,True,True,True,72,2023-01-12 00:00:00
+User8,34,Male,Greece,Bag,Gibson Inc,202.14,4.9,997,False,True,False,True,False,73,2022-02-07 00:00:00
+User2,61,Female,Australia,T-Shirt,"Mitchell, Vargas and Ibarra",27.73,3.7,547,False,True,False,True,False,74,2022-07-04 00:00:00
+User20,65,Female,USA,Laptop,Wiley LLC,66.36,2.7,231,True,False,True,False,True,75,2022-10-03 00:00:00
+User8,34,Female,Switzerland,T-Shirt,"Parks, Armstrong and Lopez",304.17,3.6,618,True,False,False,True,True,76,2022-12-03 00:00:00
+User8,59,Male,Belgium,Shoes,Hernandez-Gonzalez,17.27,3.3,661,True,True,False,False,False,77,2022-08-09 00:00:00
+User5,58,Female,France,Shoes,Williams-Green,102.7,2.2,96,False,False,True,False,True,78,2022-02-03 00:00:00
+User19,30,Male,Singapore,Perfume,"Hawkins, Leach and Hernandez",85.94,1.7,164,False,True,True,False,True,79,2022-10-10 00:00:00
+User3,50,Male,Greece,T-Shirt,Harris Group,206.89,1.1,844,True,True,False,False,True,80,2022-10-26 00:00:00
+User15,29,Female,Argentina,Bag,"Gutierrez, Smith and Watts",195.43,4.6,70,False,False,True,False,True,81,2023-11-15 00:00:00
+User19,45,Female,Russia,Bag,"Peterson, Cordova and Snyder",140.92,1.9,821,False,True,True,False,True,82,2022-10-28 00:00:00
+User20,47,Female,Brazil,Perfume,Lawson-Kennedy,230.23,4.8,512,False,True,True,True,True,83,2022-02-27 00:00:00
+User7,45,Male,UAE,Smartphone,Small-Sanders,155.83,3.3,894,False,False,True,True,True,84,2023-03-28 00:00:00
+User2,51,Male,New Zealand,Jeans,Hoffman and Sons,159.76,2.8,718,True,True,False,True,True,85,2023-03-17 00:00:00
+User12,34,Female,Australia,Perfume,"Smith, Mayer and Myers",425.69,1.7,44,False,True,False,True,False,86,2022-01-20 00:00:00
+User20,41,Female,Greece,Laptop,"Acosta, Shelton and Russell",430.37,4.8,20,False,True,True,False,True,87,2022-09-22 00:00:00
+User16,18,Male,India,Headphones,Hawkins LLC,119.04,4.2,698,True,False,True,True,True,88,2022-01-16 00:00:00
+User13,27,Female,Switzerland,Sunglasses,"Obrien, Butler and Cowan",418.34,3.2,451,False,True,True,True,True,89,2022-10-28 00:00:00
+User8,18,Female,Greece,Bag,Mcintyre Ltd,240.23,1.7,50,True,False,True,False,True,90,2022-07-28 00:00:00
+User16,63,Female,Brazil,Watch,Brown and Sons,134.05,3.5,474,True,False,False,True,True,91,2023-11-28 00:00:00
+User12,47,Male,Russia,Shoes,"Richardson, Smith and Smith",468.62,2.3,162,False,False,False,False,True,92,2022-05-08 00:00:00
+User18,32,Male,Greece,Smartphone,"Ford, Miller and Mejia",311.19,4.2,111,True,True,True,True,True,93,2023-10-15 00:00:00
+User18,31,Male,Belgium,Bag,"Brown, Durham and Lindsey",113.27,4.8,385,False,True,False,False,True,94,2023-01-21 00:00:00
+User3,61,Male,Argentina,Perfume,"Taylor, Orozco and Hall",326.01,2.8,225,True,True,True,False,True,95,2023-05-06 00:00:00
+User17,51,Male,Singapore,Watch,Campbell-Howard,91.82,2.6,447,False,True,True,True,True,96,2023-08-01 00:00:00
+User8,23,Female,Singapore,Sunglasses,Reynolds-Garcia,300.6,3.6,44,False,False,True,True,True,97,2023-09-22 00:00:00
+User15,58,Female,Italy,Bag,Dunn-Taylor,438.38,1.8,375,False,True,False,True,True,98,2022-05-22 00:00:00
+User14,61,Male,Switzerland,Bag,Bradford-Jarvis,186.37,3.3,135,True,True,False,False,True,99,2022-06-14 00:00:00
+User18,51,Male,Singapore,Shoes,"Garcia, Acosta and Mccormick",399.93,3.0,431,False,True,True,True,True,100,2023-12-16 00:00:00
+User13,46,Male,Russia,Shoes,Williamson-Mccarthy,445.62,1.7,988,True,False,False,False,True,101,2022-03-10 00:00:00
+User10,27,Male,Singapore,Shoes,"Chen, Sandoval and Johnson",113.56,1.9,639,True,True,False,True,True,102,2023-01-23 00:00:00
+User20,33,Male,Brazil,Shoes,Massey-Kennedy,104.44,1.8,551,False,True,True,True,True,103,2023-11-01 00:00:00
+User17,26,Female,Russia,Watch,Schneider PLC,412.85,2.7,43,True,False,False,False,False,104,2022-07-06 00:00:00
+User13,38,Male,New Zealand,Watch,"Johnson, Grimes and Robles",293.49,2.3,291,False,True,True,True,False,105,2023-04-10 00:00:00
+User11,54,Female,France,Sunglasses,Mcclain Group,156.01,2.0,653,True,True,True,True,True,106,2022-02-10 00:00:00
+User1,20,Male,Belgium,Headphones,Huynh-Owen,65.85,4.7,527,False,True,True,True,True,107,2022-04-27 00:00:00
+User20,59,Male,UK,Perfume,Johnson-Miller,76.12,1.7,519,True,True,True,True,True,108,2023-06-19 00:00:00
+User18,23,Female,Canada,Shoes,"Maddox, Garcia and Robinson",314.62,2.6,853,False,True,True,True,False,109,2022-04-24 00:00:00
+User8,32,Male,Russia,Sunglasses,Colon-Brown,463.71,1.0,620,True,False,True,False,True,110,2023-08-02 00:00:00
+User2,30,Male,Australia,Smartphone,"Blair, Frey and Thompson",469.78,1.0,558,True,False,True,False,True,111,2023-06-04 00:00:00
+User11,49,Male,Argentina,Shoes,Ramos PLC,71.03,4.0,689,True,True,False,False,True,112,2023-09-02 00:00:00
+User19,19,Male,India,Smartphone,Fields-Garcia,475.71,3.5,154,False,True,True,False,True,113,2022-01-03 00:00:00
+User10,53,Female,Switzerland,Shoes,"Mckee, Graham and Richardson",371.02,1.0,435,False,True,False,True,True,114,2022-09-22 00:00:00
+User15,61,Female,Greece,Sunglasses,"Blackwell, Harrington and Hill",285.71,3.2,790,False,False,False,True,True,115,2022-03-08 00:00:00
+User8,61,Female,UAE,Laptop,"Perez, Villegas and Brown",443.28,3.0,581,True,True,False,True,False,116,2023-01-20 00:00:00
+User3,63,Male,UK,Jeans,"Mayer, Anderson and Jenkins",183.05,4.7,165,True,True,False,False,False,117,2023-12-17 00:00:00
+User7,42,Female,Russia,Smartphone,Gardner-Nichols,77.56,2.6,335,False,False,True,False,True,118,2022-04-05 00:00:00
+User14,35,Female,Australia,Headphones,Reynolds-Brown,195.15,3.0,195,True,True,True,False,False,119,2023-05-19 00:00:00
+User2,52,Male,USA,Bag,Gomez-Davis,26.8,4.5,457,True,False,True,True,False,120,2022-08-29 00:00:00
+User17,43,Male,Argentina,Bag,Jones-Pitts,447.8,1.1,245,True,False,False,True,True,121,2023-11-09 00:00:00
+User8,27,Male,Canada,Smartphone,Garcia Group,490.5,1.9,937,False,False,False,True,False,122,2022-10-14 00:00:00
+User16,58,Male,Japan,Bag,Lee-Walsh,166.31,2.2,186,True,False,True,True,True,123,2023-03-27 00:00:00
+User7,39,Female,Greece,Smartphone,Garcia Inc,315.56,2.1,621,False,True,False,True,False,124,2022-03-13 00:00:00
+User12,26,Female,Italy,Sunglasses,Morgan PLC,357.59,2.8,685,False,False,False,False,True,125,2023-09-04 00:00:00
+User11,28,Male,New Zealand,Jeans,"Ayers, Smith and Gordon",442.45,1.7,314,False,False,False,True,False,126,2022-05-04 00:00:00
+User20,20,Male,Greece,Headphones,Porter-Herrera,68.19,3.2,581,False,False,False,False,False,127,2022-11-22 00:00:00
+User9,59,Female,Spain,Bag,Ross Group,43.4,3.2,962,False,False,False,True,True,128,2023-10-13 00:00:00
+User18,26,Male,Greece,Watch,Carroll Group,10.33,1.5,311,False,False,False,False,True,129,2023-10-23 00:00:00
+User2,55,Male,Belgium,Perfume,Anderson-Woods,489.67,2.4,123,False,True,False,False,False,130,2022-09-16 00:00:00
+User12,22,Male,Singapore,Headphones,"Poole, Rogers and Williams",454.52,3.3,753,True,True,True,True,True,131,2023-07-02 00:00:00
+User3,64,Female,Belgium,Watch,"Hicks, Martinez and Russell",461.04,2.3,235,True,False,True,False,False,132,2023-08-22 00:00:00
+User8,30,Male,Brazil,Sunglasses,Jones Group,230.34,2.4,131,False,True,False,False,True,133,2022-01-20 00:00:00
+User13,29,Male,UAE,Watch,Yang-Gregory,73.91,2.8,809,False,True,False,True,False,134,2022-12-03 00:00:00
+User4,20,Female,New Zealand,Perfume,Tate-Richards,222.49,3.6,361,True,True,False,True,False,135,2023-02-17 00:00:00
+User2,61,Female,Spain,Bag,Clark-Ford,221.95,3.7,813,True,True,True,False,False,136,2022-07-31 00:00:00
+User17,28,Female,Argentina,Laptop,Smith Group,461.69,4.2,133,True,True,False,True,False,137,2022-05-27 00:00:00
+User20,19,Female,Brazil,Headphones,Castro LLC,382.84,1.6,880,False,True,False,True,False,138,2022-08-18 00:00:00
+User5,32,Female,Australia,Perfume,"Williams, Bradley and Rodriguez",257.66,3.0,106,True,False,True,False,False,139,2022-02-18 00:00:00
+User1,19,Male,Brazil,Headphones,"Smith, Bolton and Zhang",425.57,2.4,831,False,True,True,False,True,140,2022-08-10 00:00:00
+User7,30,Male,India,T-Shirt,Rodriguez PLC,48.45,1.5,62,False,False,True,False,True,141,2023-09-12 00:00:00
+User11,50,Male,India,Headphones,"Stone, Lee and Vazquez",143.86,4.1,423,False,True,False,True,True,142,2023-06-23 00:00:00
+User4,55,Female,Singapore,Bag,"Strickland, Rosario and Adams",331.25,4.9,94,False,False,False,True,True,143,2023-03-17 00:00:00
+User20,28,Female,Australia,Sunglasses,Keith Group,293.15,4.4,371,False,True,True,False,False,144,2022-07-25 00:00:00
+User6,61,Female,India,Jeans,Jordan-Perez,390.98,4.6,147,True,True,True,False,True,145,2022-03-16 00:00:00
+User16,40,Female,Spain,Smartphone,"Ortiz, Park and Petersen",10.95,3.9,215,True,False,False,True,False,146,2023-12-25 00:00:00
+User10,62,Female,UK,Laptop,"Oconnor, Castillo and Smith",204.62,1.9,553,True,False,True,False,False,147,2022-05-25 00:00:00
+User20,18,Female,Japan,Smartphone,Hansen PLC,221.48,1.9,266,True,False,True,True,True,148,2022-01-27 00:00:00
+User9,34,Male,UK,Laptop,Flores LLC,206.35,1.6,942,False,True,False,True,True,149,2023-01-16 00:00:00
+User18,46,Female,Italy,Bag,Sloan and Sons,291.52,4.8,49,False,True,False,True,False,150,2022-06-15 00:00:00
+User18,26,Female,UAE,Perfume,"Williams, Duncan and Shepherd",36.3,3.4,566,False,False,False,False,True,151,2023-01-14 00:00:00
+User5,34,Female,India,T-Shirt,Smith Inc,317.58,4.9,400,False,True,True,False,False,152,2022-06-22 00:00:00
+User18,36,Female,Japan,Smartphone,"Baker, Hendricks and Garcia",221.16,4.1,571,True,False,False,True,True,153,2022-07-12 00:00:00
+User6,40,Female,Spain,Laptop,Brown Group,83.69,4.0,713,True,True,False,False,True,154,2022-07-10 00:00:00
+User11,58,Male,Singapore,Smartphone,"Barnes, Ford and Gonzales",111.79,3.6,23,False,False,True,True,True,155,2022-10-25 00:00:00
+User6,56,Male,New Zealand,Headphones,Moore-Solis,142.72,4.3,599,True,True,True,True,False,156,2022-10-21 00:00:00
+User2,59,Female,USA,Sunglasses,"Benson, Cowan and Adams",295.21,2.6,91,True,False,False,False,False,157,2022-12-06 00:00:00
+User10,29,Male,India,Laptop,"Hahn, Frey and Holmes",432.95,2.1,516,True,False,False,False,False,158,2023-10-05 00:00:00
+User13,51,Male,Switzerland,Bag,Graham-Morse,455.95,2.1,79,False,True,True,True,False,159,2023-03-31 00:00:00
+User20,65,Female,USA,Sunglasses,Snyder-Norris,121.31,2.5,363,True,False,False,False,True,160,2022-09-06 00:00:00
+User2,49,Female,Russia,Watch,"Lyons, Willis and Kerr",358.31,1.6,955,False,False,True,False,True,161,2022-10-29 00:00:00
+User13,55,Male,Japan,Headphones,Hicks LLC,225.68,2.5,112,False,False,True,True,True,162,2023-04-10 00:00:00
+User5,36,Male,Canada,Sunglasses,Curtis-Pittman,84.27,4.4,993,False,False,True,False,True,163,2022-04-07 00:00:00
+User10,18,Female,India,Headphones,"Hernandez, Walton and Richmond",10.16,4.6,136,False,True,True,False,False,164,2023-08-24 00:00:00
+User19,55,Female,Switzerland,Bag,Ryan-Hubbard,336.23,4.8,897,False,True,False,True,False,165,2023-11-24 00:00:00
+User11,42,Male,Brazil,Perfume,Gross-Hahn,153.4,4.1,887,False,False,True,True,True,166,2022-06-04 00:00:00
+User11,21,Male,UAE,T-Shirt,Mccoy-Holmes,210.6,2.1,60,True,True,True,True,False,167,2022-11-09 00:00:00
+User3,31,Female,USA,Sunglasses,Beard Ltd,137.04,2.3,983,True,False,True,False,True,168,2022-08-03 00:00:00
+User9,22,Female,Switzerland,T-Shirt,"Good, Ingram and Robinson",402.91,4.9,57,True,False,True,True,False,169,2023-02-01 00:00:00
+User19,49,Male,New Zealand,T-Shirt,Jenkins LLC,43.84,3.2,682,True,True,False,False,True,170,2022-05-02 00:00:00
+User5,64,Female,Canada,T-Shirt,Osborn and Sons,155.23,1.9,465,True,True,True,False,True,171,2022-04-18 00:00:00
+User3,49,Female,USA,Shoes,"Johnson, Fletcher and Hamilton",276.84,2.5,319,True,True,False,False,False,172,2023-03-14 00:00:00
+User5,18,Female,Japan,Smartphone,Parrish-Sanchez,479.5,3.3,17,True,True,False,True,False,173,2023-01-19 00:00:00
+User4,26,Male,New Zealand,Headphones,"Caldwell, Mcclure and Richmond",74.7,2.8,143,True,True,True,False,True,174,2022-05-08 00:00:00
+User15,27,Female,Japan,T-Shirt,Fernandez-Clay,454.41,3.7,731,False,False,False,False,False,175,2023-06-16 00:00:00
+User11,20,Female,Argentina,Smartphone,"Shaffer, Hunter and King",17.59,1.8,927,True,True,False,True,True,176,2022-02-06 00:00:00
+User1,25,Female,UK,Perfume,"Campbell, Anderson and Byrd",495.29,3.2,445,True,True,False,True,True,177,2023-09-02 00:00:00
+User15,23,Female,Canada,Smartphone,Morrison-Contreras,67.22,2.1,770,False,False,False,False,True,178,2022-06-20 00:00:00
+User10,57,Male,UAE,Sunglasses,Harper Inc,173.16,2.5,303,False,True,True,True,True,179,2023-03-14 00:00:00
+User6,43,Female,USA,Shoes,Collins Inc,232.73,4.7,320,True,True,False,True,True,180,2022-01-19 00:00:00
+User5,53,Female,Italy,Jeans,"Contreras, Berg and Martin",225.02,1.4,711,True,False,False,True,False,181,2022-12-27 00:00:00
+User3,35,Male,Australia,Smartphone,"Reed, Stephenson and Hall",39.27,3.2,545,False,True,True,True,True,182,2023-07-08 00:00:00
+User1,39,Female,Canada,Shoes,Martin PLC,483.54,2.6,833,True,True,False,True,True,183,2022-10-30 00:00:00
+User19,47,Male,Spain,T-Shirt,"Patel, Walker and Wolf",482.14,1.1,208,True,True,True,True,False,184,2023-09-22 00:00:00
+User19,18,Male,UAE,Bag,Reese Inc,424.94,3.4,493,False,False,True,True,False,185,2022-12-08 00:00:00
+User10,48,Male,Australia,Headphones,Hernandez Ltd,245.3,4.7,642,True,True,False,True,True,186,2023-07-21 00:00:00
+User9,53,Male,Argentina,Headphones,"Mccormick, Porter and Nichols",86.32,2.0,117,True,True,True,False,True,187,2022-06-25 00:00:00
+User15,55,Male,India,Bag,"Mason, Smith and Morales",393.92,3.9,336,True,False,True,False,True,188,2022-05-13 00:00:00
+User14,28,Female,Italy,Shoes,Green-Hall,325.71,4.7,891,True,True,False,True,False,189,2022-04-04 00:00:00
+User11,25,Male,Japan,Smartphone,Gutierrez-Diaz,79.94,1.0,768,True,False,True,False,True,190,2023-01-26 00:00:00
+User10,25,Female,Switzerland,Smartphone,"Simon, Huber and Smith",457.63,4.5,988,True,False,True,True,True,191,2022-02-07 00:00:00
+User10,27,Female,Russia,T-Shirt,Smith LLC,19.89,4.1,60,False,False,True,True,False,192,2022-06-01 00:00:00
+User6,48,Male,New Zealand,Shoes,"Hull, Lam and Robinson",396.36,3.2,538,True,False,False,True,False,193,2023-11-04 00:00:00
+User13,41,Male,India,T-Shirt,Young-Mays,42.92,3.4,767,True,False,False,True,False,194,2023-06-16 00:00:00
+User10,21,Male,Canada,Sunglasses,"Brennan, Drake and Lewis",444.61,4.7,471,False,False,False,True,False,195,2023-06-07 00:00:00
+User7,65,Female,Belgium,Shoes,"Torres, Ball and Hudson",470.53,3.6,395,True,True,True,False,True,196,2023-03-09 00:00:00
+User11,23,Male,USA,Sunglasses,Martin Group,34.44,2.9,117,True,True,False,True,True,197,2022-08-27 00:00:00
+User14,49,Female,India,T-Shirt,"Juarez, Brown and Stein",268.03,3.7,510,True,True,True,True,True,198,2023-12-17 00:00:00
+User1,63,Male,USA,Shoes,Young LLC,486.71,4.7,77,False,True,False,False,True,199,2022-10-29 00:00:00
+User1,19,Male,Canada,Watch,Marks Group,277.92,3.0,894,True,False,True,False,False,200,2022-05-05 00:00:00
+User4,35,Female,New Zealand,Smartphone,Foley Group,350.18,3.7,805,False,False,True,False,False,201,2023-11-14 00:00:00
+User5,19,Male,Italy,Perfume,Fernandez PLC,309.34,4.4,349,True,True,False,True,False,202,2022-12-17 00:00:00
+User13,47,Male,Argentina,T-Shirt,Walker-Allen,64.34,2.8,930,False,False,False,True,True,203,2023-11-05 00:00:00
+User3,46,Female,India,Jeans,"Little, Russell and Mccarty",145.9,1.9,664,True,False,False,True,False,204,2023-03-28 00:00:00
+User16,23,Male,Australia,Laptop,Mclaughlin-Terrell,290.21,2.7,913,False,True,True,False,False,205,2022-06-25 00:00:00
+User7,28,Male,New Zealand,Watch,Fry-Leonard,171.73,5.0,581,True,False,True,True,True,206,2022-09-24 00:00:00
+User12,49,Female,India,Jeans,Stephens-Jones,106.57,3.1,185,False,False,True,False,True,207,2023-10-18 00:00:00
+User15,47,Male,Russia,Bag,Garcia-Barry,70.56,3.2,111,True,False,False,False,True,208,2023-03-19 00:00:00
+User13,24,Female,Spain,Bag,White-Flores,488.21,4.5,212,True,False,False,True,True,209,2023-05-30 00:00:00
+User17,18,Male,New Zealand,Smartphone,"Atkins, Anderson and Sutton",292.06,5.0,682,False,True,False,True,False,210,2022-02-26 00:00:00
+User16,54,Male,UAE,Laptop,Smith Inc,183.66,1.8,424,False,False,True,True,False,211,2022-10-21 00:00:00
+User12,32,Male,Singapore,Laptop,"Walker, Beck and Lloyd",484.29,2.0,65,False,False,False,False,True,212,2023-07-14 00:00:00
+User11,39,Male,Spain,Sunglasses,"Lewis, Harrison and Young",486.19,1.6,163,True,False,True,True,True,213,2022-10-12 00:00:00
+User8,55,Male,Australia,Shoes,"Mcmillan, Clark and Garcia",457.26,2.0,592,False,False,False,False,False,214,2023-12-23 00:00:00
+User8,65,Female,USA,Bag,Ramos LLC,119.9,3.7,548,True,True,False,False,False,215,2022-04-09 00:00:00
+User1,43,Female,USA,Bag,Morales-Herrera,119.77,2.2,768,False,True,True,False,True,216,2023-01-04 00:00:00
+User5,43,Male,Switzerland,Laptop,Huber-Sanders,149.46,3.8,902,False,False,False,True,False,217,2023-03-22 00:00:00
+User19,55,Male,UAE,Watch,"Schmidt, Baker and Price",359.14,2.4,608,False,True,True,False,True,218,2022-11-10 00:00:00
+User7,47,Male,Russia,Sunglasses,Morrison Group,107.24,1.9,416,False,True,False,True,True,219,2022-05-17 00:00:00
+User7,33,Male,Greece,Headphones,Ellison and Sons,379.74,3.6,593,False,False,True,False,False,220,2022-07-22 00:00:00
+User4,57,Female,Brazil,Bag,Hall-Compton,163.84,3.0,368,False,False,True,False,True,221,2022-09-01 00:00:00
+User18,65,Female,Argentina,Perfume,"Reese, Doyle and Shah",78.22,1.8,13,False,False,False,False,True,222,2023-02-17 00:00:00
+User2,55,Male,Australia,Perfume,"Moore, Vargas and Thomas",306.05,4.0,39,False,True,False,False,False,223,2023-11-11 00:00:00
+User7,23,Male,Japan,Sunglasses,"Leon, Mueller and Boyd",214.73,4.2,718,True,False,False,True,True,224,2023-04-03 00:00:00
+User17,65,Male,Italy,Bag,"Jennings, Barber and Lewis",326.69,3.8,639,True,True,False,True,False,225,2022-12-16 00:00:00
+User19,33,Male,Australia,Bag,Wu-Howard,66.38,2.6,631,False,True,True,True,True,226,2022-09-17 00:00:00
+User13,48,Female,New Zealand,T-Shirt,"Vaughn, Watkins and Brown",458.3,2.8,385,False,True,True,False,True,227,2023-12-03 00:00:00
+User10,58,Male,UK,Watch,Burton-Black,154.71,3.9,109,False,True,False,True,False,228,2023-01-03 00:00:00
+User6,65,Male,UK,Shoes,Reynolds Ltd,82.78,3.2,613,False,False,False,True,False,229,2023-11-26 00:00:00
+User19,22,Female,France,Shoes,Palmer-Alvarez,305.28,1.8,236,False,True,False,False,False,230,2023-03-07 00:00:00
+User14,36,Female,Singapore,Watch,"Arias, Lewis and Hahn",449.86,3.6,811,True,False,True,False,True,231,2023-08-29 00:00:00
+User15,58,Female,Russia,Headphones,Johnson PLC,174.17,2.7,416,True,False,False,False,True,232,2023-06-15 00:00:00
+User11,57,Male,Italy,T-Shirt,Nguyen-Morris,463.95,2.4,465,False,True,False,True,False,233,2022-10-20 00:00:00
+User14,27,Male,Singapore,Bag,"Li, Powell and Rich",150.32,3.3,849,False,False,False,True,True,234,2022-09-26 00:00:00
+User20,18,Female,Greece,Sunglasses,Olson-Brown,385.3,2.6,424,True,True,True,False,True,235,2023-10-30 00:00:00
+User10,42,Female,France,Headphones,Benitez Group,101.4,4.8,325,False,True,False,True,True,236,2023-08-30 00:00:00
+User2,62,Male,France,Bag,Levine LLC,495.09,4.7,956,False,True,False,True,True,237,2022-09-01 00:00:00
+User9,36,Female,Argentina,Bag,Miller-Phillips,297.76,3.8,776,True,False,False,True,False,238,2022-10-27 00:00:00
+User4,21,Female,Argentina,Watch,Santos Inc,196.84,4.9,988,False,False,False,False,True,239,2023-09-01 00:00:00
+User1,65,Male,India,Jeans,"Griffin, Sloan and Henry",31.42,1.9,274,False,True,False,True,False,240,2022-11-23 00:00:00
+User14,42,Female,Italy,Shoes,Obrien-Howard,495.85,3.1,574,True,True,True,True,True,241,2023-09-30 00:00:00
+User3,64,Male,France,Laptop,Mathews-Green,483.44,2.1,210,True,False,False,False,True,242,2023-02-01 00:00:00
+User14,60,Female,USA,Jeans,"Gallagher, Hudson and Patel",13.0,5.0,480,True,False,False,False,False,243,2023-03-08 00:00:00
+User19,31,Male,Russia,Shoes,Gonzalez Inc,321.8,4.6,105,False,True,True,True,False,244,2022-06-23 00:00:00
+User10,39,Female,Canada,Perfume,Allen Group,476.06,4.9,724,True,False,True,True,True,245,2022-07-07 00:00:00
+User8,20,Male,Russia,Sunglasses,"Stone, Fox and Davis",109.34,2.1,744,False,True,True,False,False,246,2023-04-29 00:00:00
+User10,58,Female,France,Laptop,"Peterson, Smith and Norton",177.29,1.4,578,True,True,True,True,False,247,2023-08-10 00:00:00
+User6,28,Male,Australia,Smartphone,"Cole, Cooper and Dodson",232.37,1.5,88,False,True,False,True,False,248,2023-08-22 00:00:00
+User7,64,Female,Japan,Headphones,Martin-Garcia,33.51,2.3,453,True,True,False,False,True,249,2022-11-25 00:00:00
+User8,54,Female,UAE,Laptop,Velasquez-Robertson,171.98,2.2,663,True,False,True,False,True,250,2022-05-20 00:00:00
+User3,30,Male,Greece,T-Shirt,"Mitchell, Wright and Figueroa",377.15,2.3,135,True,False,True,True,False,251,2022-03-14 00:00:00
+User12,31,Male,Switzerland,Headphones,Allen-Grimes,321.84,1.8,428,True,True,True,False,False,252,2023-02-14 00:00:00
+User8,21,Male,UK,Sunglasses,"Berger, Flores and Hunt",312.84,3.7,195,True,False,False,True,False,253,2022-05-04 00:00:00
+User1,46,Female,India,Bag,Hurst Inc,134.15,3.2,353,False,False,False,False,True,254,2022-04-18 00:00:00
+User18,21,Male,Spain,Jeans,Thompson Ltd,264.66,1.2,542,False,True,True,True,True,255,2023-07-29 00:00:00
+User14,21,Female,Greece,Headphones,"Richard, Evans and Reese",478.99,2.8,901,False,True,True,False,False,256,2023-10-28 00:00:00
+User1,21,Male,Switzerland,Sunglasses,Mckay Group,316.01,3.6,90,True,False,True,True,True,257,2022-08-04 00:00:00
+User4,23,Male,Singapore,T-Shirt,"Vazquez, Garner and Rowland",155.84,4.9,442,False,False,False,True,True,258,2022-08-03 00:00:00
+User20,25,Female,New Zealand,Shoes,"Parker, Schmidt and Martinez",21.97,2.7,2,True,True,False,True,False,259,2022-04-04 00:00:00
+User15,47,Male,India,Headphones,"Porter, Webb and Maldonado",167.14,4.4,632,False,True,True,False,False,260,2023-07-01 00:00:00
+User18,52,Female,Belgium,Laptop,Schneider Group,276.32,1.0,515,False,True,False,True,True,261,2022-07-17 00:00:00
+User4,55,Male,Australia,T-Shirt,Shaw Group,263.76,3.4,939,True,False,False,True,False,262,2022-02-19 00:00:00
+User15,41,Male,Spain,Jeans,Ray LLC,202.76,1.8,384,True,True,False,True,False,263,2023-09-27 00:00:00
+User4,63,Male,Argentina,T-Shirt,Carlson-Gibson,390.86,4.3,602,True,True,False,True,True,264,2023-09-01 00:00:00
+User13,42,Male,Greece,Watch,"Best, Smith and Watts",435.66,4.6,483,False,False,True,True,True,265,2023-05-05 00:00:00
+User11,65,Male,Greece,Bag,Dixon PLC,60.83,1.2,681,True,True,False,False,False,266,2022-10-28 00:00:00
+User1,49,Male,Russia,Shoes,Owens-Luna,453.36,1.1,359,False,False,False,True,False,267,2023-12-02 00:00:00
+User18,45,Female,Brazil,Perfume,Moore Group,84.07,3.4,84,False,True,False,True,False,268,2023-08-01 00:00:00
+User4,54,Female,Spain,Smartphone,"Flores, Salinas and Wu",166.26,3.6,520,True,False,True,True,True,269,2022-12-02 00:00:00
+User14,49,Female,Switzerland,Smartphone,Richards-Neal,178.03,4.1,307,True,True,False,False,True,270,2023-03-22 00:00:00
+User15,63,Female,France,Headphones,"Hensley, Andrade and Gill",435.62,1.6,575,False,True,False,False,False,271,2023-08-09 00:00:00
+User13,39,Male,USA,Shoes,Butler LLC,220.27,3.5,929,False,False,True,True,True,272,2022-02-22 00:00:00
+User14,23,Male,France,Watch,"Kirby, Haynes and Hubbard",175.42,4.2,175,True,False,False,False,False,273,2023-10-18 00:00:00
+User2,32,Male,Russia,Smartphone,Mccoy and Sons,292.3,1.5,244,True,True,False,False,True,274,2023-05-18 00:00:00
+User11,47,Male,Switzerland,Perfume,Brewer-Gonzalez,51.73,4.7,753,False,False,False,True,True,275,2023-03-09 00:00:00
+User9,22,Male,USA,T-Shirt,"Christian, Williams and Smith",147.87,3.3,195,False,False,False,True,False,276,2023-03-18 00:00:00
+User19,37,Male,Japan,Shoes,Serrano-Clark,142.67,4.5,357,True,True,False,True,True,277,2023-08-14 00:00:00
+User9,39,Male,India,Smartphone,"Sweeney, Hendrix and Bird",477.4,1.3,204,False,False,True,True,True,278,2023-06-11 00:00:00
+User13,26,Male,Belgium,Headphones,Howard-Chavez,393.39,4.8,465,True,True,False,True,True,279,2023-11-28 00:00:00
+User1,26,Male,UK,T-Shirt,Campbell Inc,404.97,2.8,155,False,True,True,True,False,280,2023-06-21 00:00:00
+User4,55,Male,Belgium,Smartphone,Clayton-King,438.47,2.8,847,True,True,True,False,False,281,2023-02-28 00:00:00
+User2,42,Female,Belgium,Jeans,Avila Ltd,345.28,2.4,643,True,False,False,True,False,282,2023-08-13 00:00:00
+User7,42,Male,Greece,Headphones,Taylor-Bell,262.9,2.6,558,True,True,False,False,False,283,2023-01-27 00:00:00
+User20,63,Male,Australia,Headphones,Jones-Gallagher,47.6,4.0,679,False,False,True,False,False,284,2022-11-18 00:00:00
+User6,41,Female,USA,Smartphone,Campbell-Smith,360.38,4.5,510,True,True,True,True,True,285,2022-04-27 00:00:00
+User9,30,Female,New Zealand,Sunglasses,"Wright, Robbins and Rodgers",324.29,4.7,959,False,False,True,False,True,286,2023-11-15 00:00:00
+User1,35,Female,France,T-Shirt,Sanford LLC,88.0,1.5,869,True,False,False,True,True,287,2023-01-11 00:00:00
+User19,30,Male,Canada,T-Shirt,"Hernandez, Morgan and Adams",192.83,3.1,326,True,False,True,False,True,288,2023-01-12 00:00:00
+User3,41,Female,UK,Headphones,"Flores, Cabrera and Vazquez",238.03,4.3,454,False,True,True,False,False,289,2022-11-27 00:00:00
+User8,37,Female,Japan,Laptop,Carlson Ltd,98.64,1.0,16,False,True,False,False,True,290,2022-05-22 00:00:00
+User3,21,Female,Canada,Headphones,Sharp Inc,241.6,1.7,608,True,True,False,False,True,291,2023-11-19 00:00:00
+User7,25,Female,Brazil,Jeans,"Gibbs, Gutierrez and Mills",36.16,2.1,217,False,False,False,True,False,292,2022-11-25 00:00:00
+User14,28,Male,UAE,Smartphone,"Perez, Schmidt and Henderson",106.62,2.6,506,False,False,False,True,True,293,2023-07-25 00:00:00
+User10,62,Female,New Zealand,Smartphone,"Ortega, Gentry and Perkins",67.1,1.2,20,False,True,True,True,False,294,2022-08-12 00:00:00
+User15,33,Female,USA,Jeans,"Washington, Ramirez and Bridges",214.49,1.7,188,True,True,True,False,True,295,2023-03-19 00:00:00
+User2,50,Female,Argentina,Smartphone,Peterson-Martinez,328.65,3.7,198,True,True,False,False,False,296,2023-03-23 00:00:00
+User13,60,Male,Brazil,Perfume,Cantu-Armstrong,416.08,4.0,634,False,True,True,True,False,297,2023-01-29 00:00:00
+User10,56,Female,USA,Jeans,"Richard, Mendez and Morgan",418.85,4.8,285,False,True,True,True,False,298,2023-09-12 00:00:00
+User11,62,Female,Russia,T-Shirt,Moore-Duncan,436.04,2.7,222,True,True,False,False,False,299,2023-07-28 00:00:00
+User5,63,Female,Japan,Sunglasses,"Moody, Newman and Torres",213.36,1.6,747,True,True,False,True,False,300,2022-09-11 00:00:00
+User19,40,Male,Belgium,Perfume,Evans Ltd,125.89,4.8,567,False,True,True,True,False,301,2022-12-14 00:00:00
+User9,51,Female,India,Smartphone,Jones Inc,359.0,2.7,464,False,True,True,True,False,302,2023-12-19 00:00:00
+User2,23,Female,New Zealand,Perfume,"Vega, Wilson and Spence",445.58,2.6,806,True,False,False,True,False,303,2023-02-23 00:00:00
+User7,36,Female,Japan,Jeans,"Hampton, Duke and Haynes",63.62,3.7,840,True,False,True,False,True,304,2023-12-28 00:00:00
+User11,51,Female,India,Sunglasses,Rich-Olson,103.07,3.4,259,False,True,True,False,False,305,2022-02-14 00:00:00
+User1,39,Female,Canada,Smartphone,Montgomery-Thomas,459.69,2.2,193,False,True,False,True,False,306,2022-04-19 00:00:00
+User9,24,Male,France,T-Shirt,Barry-Hines,443.11,2.2,412,False,False,True,True,False,307,2022-03-01 00:00:00
+User17,46,Female,New Zealand,Sunglasses,"Kemp, Burnett and Holland",272.23,4.6,114,True,True,False,False,True,308,2023-03-08 00:00:00
+User19,38,Male,Canada,Watch,Smith LLC,372.02,1.5,636,False,True,True,True,True,309,2022-08-01 00:00:00
+User19,49,Female,France,Smartphone,"Brown, Wilson and Best",104.56,5.0,81,False,True,False,True,False,310,2023-02-07 00:00:00
+User10,50,Female,UK,T-Shirt,Richardson-Joyce,137.64,1.8,209,False,True,False,False,True,311,2022-09-29 00:00:00
+User19,34,Male,UK,Jeans,Harris Inc,385.91,3.9,349,True,False,True,False,True,312,2022-04-08 00:00:00
+User5,43,Male,Greece,Headphones,Shaffer Group,461.61,2.0,588,False,False,False,True,False,313,2023-06-03 00:00:00
+User20,55,Female,Russia,Laptop,"Davis, Mora and Long",341.23,1.6,672,True,False,True,True,False,314,2023-09-10 00:00:00
+User18,51,Male,Singapore,Sunglasses,"Adams, Adkins and Hunter",161.63,4.2,186,True,True,True,True,True,315,2022-07-25 00:00:00
+User5,26,Female,Italy,Sunglasses,Sanders-Sharp,182.5,3.9,430,True,False,False,True,True,316,2023-08-22 00:00:00
+User4,61,Female,USA,Watch,Lucas Inc,97.49,1.1,41,True,False,True,False,False,317,2022-12-31 00:00:00
+User1,46,Female,New Zealand,Smartphone,Hernandez-Brooks,139.82,2.9,777,True,False,False,True,False,318,2022-06-26 00:00:00
+User20,22,Female,India,Laptop,"Johnson, Wilson and Nichols",314.64,2.9,874,False,False,False,False,True,319,2023-04-24 00:00:00
+User1,62,Male,UAE,Sunglasses,Cook-Hill,321.04,4.6,379,False,False,True,False,False,320,2022-06-22 00:00:00
+User3,52,Male,USA,Bag,Collins LLC,345.58,4.7,69,True,False,True,False,True,321,2023-11-14 00:00:00
+User13,39,Female,UAE,Bag,Dennis Group,215.9,4.7,440,True,False,False,False,False,322,2022-10-23 00:00:00
+User18,60,Male,New Zealand,Headphones,Marshall-Logan,314.48,2.6,297,True,True,True,False,False,323,2023-01-18 00:00:00
+User17,40,Female,Japan,Bag,"Powell, Gomez and Bennett",467.24,2.9,823,False,True,True,True,True,324,2022-09-22 00:00:00
+User15,40,Male,Argentina,Shoes,Shaw-Mcintosh,170.98,1.5,543,True,True,True,False,False,325,2023-11-08 00:00:00
+User15,48,Male,Switzerland,T-Shirt,"Miller, Novak and Marshall",464.25,4.5,959,True,True,True,True,False,326,2022-08-27 00:00:00
+User10,47,Female,Belgium,Smartphone,Perez and Sons,423.54,3.8,160,False,False,False,False,True,327,2022-06-10 00:00:00
+User13,65,Male,Japan,Bag,Salazar-Vasquez,483.27,5.0,691,False,False,True,False,False,328,2023-05-10 00:00:00
+User4,63,Female,Belgium,Watch,Bullock-Taylor,270.57,3.3,158,False,True,True,True,False,329,2023-10-31 00:00:00
+User7,54,Female,Argentina,T-Shirt,"Rodriguez, Reilly and Lopez",488.34,4.1,575,True,False,False,True,False,330,2022-12-22 00:00:00
+User12,43,Female,Greece,Watch,Morales-Ortega,323.32,4.3,525,False,True,True,False,True,331,2022-05-20 00:00:00
+User11,22,Male,Singapore,Smartphone,Patel Group,303.15,4.4,43,False,False,True,True,False,332,2023-06-02 00:00:00
+User1,44,Male,Australia,Sunglasses,"Garcia, Burnett and Garcia",253.22,1.0,596,False,False,True,True,False,333,2022-04-14 00:00:00
+User1,57,Male,Russia,Jeans,"Wilson, Meadows and Nguyen",124.09,2.4,548,False,False,False,False,False,334,2023-12-22 00:00:00
+User8,58,Male,France,Shoes,Brown PLC,360.71,2.1,361,True,True,False,True,False,335,2023-08-02 00:00:00
+User5,52,Female,Switzerland,Shoes,Fisher-Robinson,380.84,2.7,555,False,False,False,True,False,336,2022-12-21 00:00:00
+User14,25,Female,USA,Headphones,"White, Knight and Anderson",20.07,1.3,498,False,False,False,False,True,337,2022-06-23 00:00:00
+User8,47,Male,Italy,Watch,"Flores, Henry and May",255.09,4.8,252,True,False,False,False,False,338,2023-02-21 00:00:00
+User11,37,Male,India,Laptop,Mann-Solis,144.46,3.5,254,False,True,True,False,False,339,2023-06-22 00:00:00
+User15,53,Male,India,T-Shirt,"Mahoney, Mejia and Torres",203.81,2.1,621,True,True,True,True,True,340,2022-05-31 00:00:00
+User9,40,Female,Belgium,Sunglasses,"Anderson, Mcpherson and Miller",488.28,4.9,701,False,False,False,False,False,341,2022-10-26 00:00:00
+User8,65,Male,Italy,T-Shirt,"Johnson, Murphy and Ruiz",11.62,3.1,351,True,False,False,True,True,342,2023-10-10 00:00:00
+User6,30,Male,Italy,Watch,"Ryan, Hudson and Best",276.47,1.4,452,True,True,False,False,True,343,2023-06-02 00:00:00
+User13,18,Male,Japan,Shoes,"Osborne, Cooper and Green",350.31,1.8,39,True,True,True,False,True,344,2023-10-08 00:00:00
+User2,33,Female,Italy,Perfume,Johnson Inc,21.38,3.4,449,True,True,True,False,False,345,2022-09-07 00:00:00
+User18,18,Female,Canada,Headphones,"Middleton, Yoder and James",92.16,4.8,463,False,True,True,True,True,346,2023-06-16 00:00:00
+User14,58,Male,Singapore,T-Shirt,Estrada and Sons,13.68,1.8,282,False,True,False,False,False,347,2023-08-31 00:00:00
+User1,53,Male,Singapore,Perfume,Boyer-Jones,416.21,4.9,925,False,False,True,False,False,348,2022-10-14 00:00:00
+User8,65,Female,Brazil,Bag,Schmidt-Webb,114.95,3.5,374,False,False,False,False,False,349,2023-07-26 00:00:00
+User17,61,Male,Italy,T-Shirt,"Hardin, Walker and Jones",346.82,4.9,476,True,True,False,True,False,350,2023-04-28 00:00:00
+User10,46,Male,UK,T-Shirt,Miller-Wilson,465.39,3.2,318,True,False,False,False,False,351,2023-07-31 00:00:00
+User11,53,Male,Spain,T-Shirt,Cox-Mccullough,407.0,4.8,233,False,False,False,False,False,352,2023-05-03 00:00:00
+User8,37,Male,Russia,Sunglasses,Summers-Morales,486.84,2.7,501,True,False,False,True,False,353,2022-08-19 00:00:00
+User13,51,Female,USA,Smartphone,Drake LLC,189.99,1.2,41,True,False,True,True,True,354,2023-10-30 00:00:00
+User17,62,Male,Belgium,Bag,"Garcia, Green and Arroyo",81.07,4.9,270,True,True,True,True,False,355,2022-12-22 00:00:00
+User3,59,Female,Greece,Laptop,Wilkinson PLC,398.67,4.6,170,False,False,True,True,False,356,2022-02-03 00:00:00
+User10,25,Female,Belgium,Bag,Rogers-Morton,441.86,1.1,29,True,False,False,False,False,357,2023-03-01 00:00:00
+User15,30,Male,Belgium,T-Shirt,Young-Walton,270.64,1.7,79,False,True,True,False,True,358,2022-05-28 00:00:00
+User18,18,Male,Italy,Bag,Smith-Rubio,241.2,4.7,141,False,False,True,False,True,359,2023-12-15 00:00:00
+User5,60,Female,Russia,Bag,Mcbride-Hurley,483.04,1.6,543,False,True,True,True,False,360,2023-07-30 00:00:00
+User17,63,Female,Greece,Sunglasses,"Perry, Berry and Moore",263.39,1.4,948,True,False,False,False,False,361,2023-08-08 00:00:00
+User20,56,Male,Singapore,Laptop,Dyer-Perry,68.82,2.3,232,False,False,False,False,False,362,2023-04-30 00:00:00
+User18,43,Female,Belgium,Jeans,Graves-Daniels,396.87,3.1,758,True,False,False,True,True,363,2023-01-02 00:00:00
+User15,44,Male,USA,Bag,Christensen Group,318.6,1.6,99,False,True,True,False,True,364,2023-02-23 00:00:00
+User2,61,Male,UAE,T-Shirt,Campbell LLC,160.99,1.5,424,True,False,True,False,False,365,2022-11-26 00:00:00
+User11,18,Male,Australia,Watch,Gibson Inc,373.42,1.3,777,True,True,True,False,False,366,2022-04-03 00:00:00
+User17,34,Female,USA,T-Shirt,Bell-Lucas,111.3,1.2,663,False,True,False,False,True,367,2022-04-06 00:00:00
+User5,33,Male,France,Laptop,Hunt-Chandler,135.68,4.7,115,True,True,False,True,True,368,2022-06-06 00:00:00
+User10,27,Male,UK,Sunglasses,"Bennett, Stone and Hernandez",332.73,3.0,796,False,False,False,False,True,369,2023-07-11 00:00:00
+User3,47,Male,Belgium,Shoes,Mcneil and Sons,203.97,2.9,871,False,True,True,True,True,370,2023-12-29 00:00:00
+User13,58,Male,Greece,Smartphone,Blake-Mejia,295.87,1.3,795,True,True,True,True,False,371,2023-11-03 00:00:00
+User7,43,Female,Switzerland,Shoes,Hall Inc,355.23,4.7,583,True,True,False,False,False,372,2022-05-23 00:00:00
+User9,53,Male,Argentina,Perfume,"Reyes, Moran and Marshall",385.73,2.0,906,False,True,False,True,True,373,2023-01-29 00:00:00
+User10,48,Male,Argentina,Jeans,Martin-Harvey,350.93,1.0,42,False,True,False,False,True,374,2023-11-15 00:00:00
+User10,30,Female,New Zealand,Jeans,Garrett-Barber,80.43,2.9,740,False,False,True,False,False,375,2023-03-16 00:00:00
+User20,41,Male,UAE,Watch,Thompson and Sons,499.91,3.8,547,False,True,True,True,True,376,2022-11-16 00:00:00
+User10,24,Male,USA,Jeans,"Pearson, Jones and Contreras",491.56,3.0,474,True,True,False,True,True,377,2023-04-02 00:00:00
+User16,31,Female,UK,Bag,"Johnson, Delgado and Ward",251.28,3.9,880,False,True,True,False,True,378,2023-05-23 00:00:00
+User18,48,Female,UK,Shoes,"Rangel, Finley and Gonzalez",197.92,3.2,53,True,False,True,True,False,379,2023-07-09 00:00:00
+User12,27,Male,UAE,Watch,Patterson Ltd,393.64,4.6,408,False,False,True,True,True,380,2022-01-05 00:00:00
+User17,44,Male,Argentina,Bag,Pugh LLC,12.4,3.0,309,True,False,False,False,True,381,2022-07-06 00:00:00
+User12,30,Female,Singapore,Jeans,"Wilson, West and Herrera",381.42,4.1,373,True,False,False,False,True,382,2023-08-27 00:00:00
+User4,28,Female,Belgium,Perfume,"Jackson, Quinn and Flores",431.78,1.3,640,True,True,True,False,True,383,2022-11-08 00:00:00
+User8,56,Female,Australia,Laptop,Knight and Sons,326.88,2.2,477,False,False,True,False,True,384,2022-03-16 00:00:00
+User3,20,Male,Greece,Watch,Kelly Group,238.58,4.6,841,True,True,True,True,True,385,2023-03-13 00:00:00
+User9,38,Male,France,Watch,"Gibson, Santana and Gonzalez",464.85,4.3,492,True,False,True,False,True,386,2023-08-04 00:00:00
+User18,61,Female,Greece,Watch,Bryant-Hines,66.37,1.4,967,False,False,True,False,True,387,2022-07-19 00:00:00
+User7,28,Female,Argentina,Perfume,"Wright, Green and Goodman",211.82,4.4,981,True,True,False,False,True,388,2022-11-29 00:00:00
+User18,21,Female,Russia,Perfume,Lopez-Reed,152.16,1.2,375,False,False,True,True,False,389,2022-10-27 00:00:00
+User18,60,Female,India,T-Shirt,"Howe, Koch and Holder",385.13,4.7,265,True,True,True,True,True,390,2022-06-14 00:00:00
+User6,64,Female,Argentina,Jeans,Miller-Gallegos,248.49,4.5,284,False,False,True,False,True,391,2023-08-21 00:00:00
+User7,51,Male,Russia,Smartphone,Walter-Jones,45.64,1.9,484,True,False,False,False,False,392,2022-09-05 00:00:00
+User19,36,Female,Greece,T-Shirt,Russo-Edwards,330.42,2.2,566,True,False,False,True,False,393,2023-09-27 00:00:00
+User4,37,Female,Brazil,Headphones,Miller-Velazquez,296.89,2.4,291,True,False,False,True,True,394,2022-06-25 00:00:00
+User10,41,Male,Italy,T-Shirt,Wang PLC,20.57,3.9,770,True,False,True,False,True,395,2023-11-19 00:00:00
+User19,52,Female,Russia,Jeans,Jones PLC,306.29,4.8,210,False,True,False,True,True,396,2023-06-17 00:00:00
+User8,50,Male,France,Smartphone,Romero-Ford,490.56,2.4,738,False,True,False,False,True,397,2022-04-20 00:00:00
+User12,59,Female,Italy,Shoes,Clark-Sanchez,448.47,3.5,110,True,True,False,True,True,398,2023-09-15 00:00:00
+User14,29,Male,France,Shoes,Sweeney Group,387.09,2.7,370,True,False,False,True,True,399,2022-08-20 00:00:00
+User14,46,Male,Greece,Shoes,"Holt, Jackson and Key",285.49,2.7,46,False,True,True,True,False,400,2022-05-17 00:00:00
+User18,40,Female,Spain,Smartphone,Pineda LLC,472.7,1.4,204,True,False,False,True,False,401,2022-04-22 00:00:00
+User7,49,Male,UK,Sunglasses,Gonzalez and Sons,322.56,4.6,983,True,False,True,True,True,402,2022-09-08 00:00:00
+User7,37,Male,Switzerland,Jeans,Flores Group,168.65,1.3,342,True,True,True,False,False,403,2022-11-22 00:00:00
+User19,21,Female,Greece,T-Shirt,Hernandez Ltd,447.97,3.2,986,False,False,False,True,False,404,2022-06-22 00:00:00
+User4,35,Male,Singapore,Smartphone,Cook Group,454.69,2.2,330,False,False,True,True,True,405,2022-08-09 00:00:00
+User10,59,Female,France,Sunglasses,Padilla LLC,281.26,2.8,818,True,False,False,True,False,406,2022-02-04 00:00:00
+User8,52,Female,New Zealand,Laptop,Martin-Underwood,409.28,2.5,55,False,True,False,False,True,407,2022-08-15 00:00:00
+User3,53,Male,New Zealand,Shoes,Lamb-Christensen,453.53,2.0,956,False,True,False,True,True,408,2022-10-31 00:00:00
+User19,55,Female,Argentina,T-Shirt,"Roy, Brooks and Bryant",22.18,1.8,236,True,False,True,True,False,409,2023-07-16 00:00:00
+User13,23,Male,USA,Laptop,Perez-Lester,145.68,1.2,427,False,False,True,True,False,410,2022-06-08 00:00:00
+User13,48,Female,Singapore,Watch,"Ritter, Williams and White",381.68,2.5,159,True,False,False,True,False,411,2022-10-30 00:00:00
+User12,56,Male,Singapore,Sunglasses,Thomas Ltd,329.32,4.3,530,True,False,True,False,True,412,2022-12-12 00:00:00
+User3,21,Male,Brazil,Headphones,Nelson-Williams,490.61,2.5,433,True,False,True,False,False,413,2023-07-30 00:00:00
+User20,24,Female,Japan,Laptop,"Glover, Gould and Byrd",153.66,1.4,51,True,False,True,True,False,414,2022-10-23 00:00:00
+User7,61,Male,Russia,Watch,Rodriguez-Benson,305.64,4.0,343,False,True,True,False,False,415,2023-08-11 00:00:00
+User13,19,Male,Singapore,Headphones,Oliver-Farmer,10.84,1.8,331,False,False,False,True,True,416,2023-06-24 00:00:00
+User19,43,Female,New Zealand,Headphones,"Robertson, Huffman and Kelly",164.75,2.9,471,False,True,True,True,True,417,2023-09-30 00:00:00
+User2,57,Male,Singapore,Smartphone,Carter and Sons,281.41,5.0,496,False,True,True,False,True,418,2022-02-08 00:00:00
+User11,42,Male,Brazil,Bag,Hicks LLC,35.01,3.6,769,True,False,True,False,False,419,2023-05-10 00:00:00
+User8,63,Female,UK,Watch,Anderson Inc,50.89,1.2,409,False,True,True,False,True,420,2022-05-24 00:00:00
+User13,53,Male,Singapore,Bag,"Ware, Whitehead and Goodman",261.94,1.2,798,True,True,True,False,True,421,2023-08-21 00:00:00
+User6,39,Female,India,Jeans,"Dixon, Martinez and Johnson",117.26,2.6,558,False,False,True,True,False,422,2023-11-24 00:00:00
+User9,46,Female,UK,Shoes,Padilla-Miller,270.51,3.7,590,True,False,True,False,False,423,2023-08-07 00:00:00
+User17,33,Male,Greece,Smartphone,Sanchez-Morris,387.05,1.3,886,True,True,False,False,True,424,2022-07-22 00:00:00
+User15,36,Female,Italy,Watch,"Curtis, Jacobson and Myers",470.15,2.6,127,False,True,False,False,False,425,2023-06-04 00:00:00
+User4,60,Female,Argentina,Perfume,Solis Ltd,410.47,2.2,567,True,True,True,False,False,426,2022-12-10 00:00:00
+User5,49,Male,Canada,T-Shirt,Harris-Tran,282.63,3.9,939,False,False,True,False,True,427,2022-09-08 00:00:00
+User16,42,Male,Brazil,Bag,Roberts-Newman,194.19,2.6,964,False,True,True,False,True,428,2023-12-22 00:00:00
+User1,30,Male,Belgium,Laptop,"Wood, Nguyen and Rodriguez",403.8,1.9,41,True,True,True,True,False,429,2023-02-03 00:00:00
+User3,30,Male,Argentina,Headphones,"Wilson, Smith and Livingston",258.18,3.1,649,False,False,True,False,False,430,2022-04-13 00:00:00
+User8,28,Female,New Zealand,Perfume,Johnson-Hicks,204.62,4.1,197,True,False,True,True,False,431,2023-09-14 00:00:00
+User2,52,Male,Belgium,Headphones,Everett LLC,100.13,4.2,500,True,False,False,False,False,432,2022-10-08 00:00:00
+User9,25,Male,Japan,Perfume,Peck-Lyons,233.1,1.1,595,False,True,False,False,False,433,2022-02-01 00:00:00
+User16,40,Female,Argentina,Laptop,Fitzgerald and Sons,303.82,2.4,952,False,True,False,False,True,434,2022-12-09 00:00:00
+User3,62,Female,Japan,Headphones,"Powell, Henderson and Clark",121.9,1.4,70,False,False,True,True,False,435,2023-12-12 00:00:00
+User12,48,Female,Russia,Smartphone,Campbell-Donovan,332.56,2.6,795,True,False,True,True,True,436,2023-12-06 00:00:00
+User9,47,Male,Canada,Laptop,"Johnson, Navarro and Chaney",251.11,3.5,296,False,False,False,True,False,437,2022-07-08 00:00:00
+User1,45,Male,France,Shoes,"Nguyen, Daniels and Moore",240.03,4.8,953,False,True,True,False,False,438,2022-09-04 00:00:00
+User10,37,Female,Brazil,Watch,"Wise, Price and Mitchell",456.99,3.7,290,True,True,False,True,True,439,2023-09-11 00:00:00
+User12,31,Male,Japan,Perfume,"Smith, Willis and Garza",138.56,1.9,632,True,True,True,True,False,440,2023-01-17 00:00:00
+User16,33,Female,UK,Shoes,Reynolds-Miller,402.25,1.9,292,False,True,False,True,False,441,2023-04-22 00:00:00
+User15,41,Male,Greece,Smartphone,Robertson LLC,472.67,3.7,593,True,True,True,True,False,442,2023-03-27 00:00:00
+User10,57,Female,Greece,T-Shirt,"Zamora, Watkins and Cox",41.31,2.2,138,True,False,False,True,False,443,2023-08-15 00:00:00
+User4,26,Male,Spain,T-Shirt,Mullins Inc,81.73,2.8,426,False,False,False,False,False,444,2023-08-26 00:00:00
+User18,36,Female,Russia,Jeans,Campbell Inc,415.16,2.8,943,False,True,False,True,False,445,2023-05-24 00:00:00
+User6,50,Male,Greece,Bag,"Garcia, Rice and Mccann",318.26,3.4,181,False,False,False,False,False,446,2023-04-14 00:00:00
+User19,46,Male,Japan,Shoes,Pace LLC,193.95,3.5,744,True,True,True,True,True,447,2022-10-15 00:00:00
+User14,45,Female,Singapore,Smartphone,Gordon-Munoz,438.67,4.8,616,True,False,False,False,False,448,2022-06-18 00:00:00
+User19,40,Female,Australia,Bag,Thomas Inc,205.55,3.5,341,False,True,True,True,True,449,2022-11-30 00:00:00
+User13,32,Male,Argentina,T-Shirt,Lopez-Burnett,86.47,1.1,416,False,True,False,True,True,450,2023-06-14 00:00:00
+User16,18,Male,France,Jeans,Castro PLC,487.73,3.0,329,False,True,True,False,False,451,2023-05-21 00:00:00
+User2,51,Male,Greece,T-Shirt,Scott Group,339.81,1.8,123,False,False,True,True,True,452,2022-09-18 00:00:00
+User2,20,Male,Belgium,Shoes,Fox-White,54.38,3.1,739,True,True,True,True,False,453,2022-01-28 00:00:00
+User10,61,Female,Japan,Shoes,Smith Inc,115.33,3.0,100,False,True,True,True,True,454,2023-03-30 00:00:00
+User3,47,Male,Canada,Shoes,"Howard, Wright and Moore",95.32,4.9,960,False,False,True,True,True,455,2022-02-04 00:00:00
+User13,57,Female,Belgium,Shoes,Taylor-Palmer,201.41,2.6,328,True,False,False,True,False,456,2023-03-17 00:00:00
+User4,62,Female,Belgium,Shoes,Martinez-Spencer,29.03,2.1,368,True,True,True,True,True,457,2023-09-26 00:00:00
+User9,39,Female,Argentina,Shoes,Brown-Freeman,125.85,2.1,347,True,True,True,True,True,458,2023-06-23 00:00:00
+User3,32,Male,Spain,Laptop,Robinson Group,435.8,1.7,609,True,True,False,False,True,459,2022-12-22 00:00:00
+User18,55,Male,Spain,Shoes,Howard-Schwartz,416.12,3.9,137,True,True,False,False,True,460,2023-01-03 00:00:00
+User8,45,Female,Greece,Headphones,Shaw-Mathews,163.46,4.5,364,False,True,True,False,False,461,2023-11-28 00:00:00
+User19,55,Male,Russia,Shoes,Becker Group,195.75,1.3,697,False,False,False,False,False,462,2023-12-24 00:00:00
+User14,54,Female,France,Smartphone,"Ball, Ryan and Thomas",128.04,4.3,732,True,True,False,True,True,463,2022-02-22 00:00:00
+User5,48,Male,UAE,Headphones,Hayes-Cobb,139.19,2.4,166,False,False,False,True,False,464,2022-10-26 00:00:00
+User8,23,Female,Japan,Headphones,"Ortiz, Hines and Silva",279.9,1.6,546,False,False,False,False,True,465,2023-02-08 00:00:00
+User10,20,Female,New Zealand,Jeans,"Taylor, Mills and Barnes",275.49,4.3,472,True,True,False,True,False,466,2023-12-12 00:00:00
+User9,33,Female,UAE,Headphones,"Zimmerman, Cruz and Richard",116.29,3.0,326,True,True,True,False,False,467,2023-11-13 00:00:00
+User15,19,Male,Switzerland,Perfume,"Miller, Moore and Craig",160.11,3.5,92,False,True,False,False,False,468,2022-08-26 00:00:00
+User7,36,Female,Russia,T-Shirt,Jones-Lewis,110.79,2.8,55,False,False,True,True,True,469,2023-08-29 00:00:00
+User20,53,Female,Russia,Headphones,"Forbes, Vang and Novak",462.93,2.4,724,True,True,False,False,False,470,2023-11-21 00:00:00
+User3,19,Male,France,Jeans,Fields-Perez,425.52,4.0,651,True,False,False,False,False,471,2022-08-22 00:00:00
+User17,25,Male,Singapore,Shoes,Nelson-Morales,242.84,2.1,201,False,False,False,False,True,472,2023-02-16 00:00:00
+User19,28,Male,Greece,Headphones,Barnett-Norton,366.58,3.3,734,False,False,False,False,True,473,2023-12-30 00:00:00
+User17,21,Female,Switzerland,Laptop,"Smith, Morgan and Greer",263.29,2.7,538,True,True,True,False,True,474,2023-10-10 00:00:00
+User15,27,Male,Belgium,Watch,"Scott, Hayes and Nelson",409.13,3.3,628,True,True,True,True,False,475,2023-06-24 00:00:00
+User14,33,Male,USA,Jeans,Benitez-Chavez,495.64,2.8,472,True,False,True,True,False,476,2022-04-16 00:00:00
+User7,44,Male,Australia,Smartphone,Rivera PLC,352.57,3.0,966,False,False,False,True,False,477,2022-08-02 00:00:00
+User20,18,Male,Brazil,T-Shirt,"Parker, Jenkins and Ruiz",309.16,1.0,844,True,True,True,True,True,478,2022-05-03 00:00:00
+User20,49,Female,USA,Perfume,Hall-Gomez,251.73,4.9,747,True,True,True,True,True,479,2022-12-21 00:00:00
+User9,64,Male,Singapore,Jeans,Mcmahon LLC,346.96,3.6,170,False,True,False,True,False,480,2023-11-26 00:00:00
+User9,28,Female,Spain,Sunglasses,Norris PLC,236.67,2.2,506,False,True,True,True,False,481,2023-04-19 00:00:00
+User20,58,Male,France,Laptop,Palmer PLC,47.98,3.3,862,False,False,False,False,True,482,2023-03-18 00:00:00
+User12,34,Female,Australia,Sunglasses,"Pena, Peterson and Coleman",115.88,2.2,756,True,False,False,False,True,483,2023-01-06 00:00:00
+User15,55,Male,France,T-Shirt,Harrison-Washington,366.42,2.8,224,True,False,False,True,True,484,2022-03-19 00:00:00
+User15,23,Female,USA,Smartphone,Johns PLC,95.04,4.3,290,True,False,False,False,True,485,2023-02-08 00:00:00
+User11,21,Male,Greece,Headphones,Smith-Jackson,237.29,4.8,255,True,False,True,True,False,486,2022-10-04 00:00:00
+User1,52,Male,Brazil,T-Shirt,Johnson-Miles,219.6,2.0,407,False,False,False,True,True,487,2022-11-17 00:00:00
+User3,21,Male,UAE,Bag,Hammond-Vega,306.11,4.4,322,True,False,True,False,False,488,2022-08-05 00:00:00
+User2,52,Male,UAE,Watch,Casey-Johnson,346.36,2.5,144,False,True,True,False,True,489,2023-05-02 00:00:00
+User8,19,Female,Canada,Sunglasses,"Smith, Nguyen and Williams",334.74,2.7,382,False,True,False,False,True,490,2023-03-06 00:00:00
+User19,48,Male,New Zealand,Sunglasses,Perez LLC,17.46,1.6,77,True,True,False,True,False,491,2022-01-12 00:00:00
+User6,43,Male,Brazil,Smartphone,Smith-Martin,324.69,2.2,325,False,True,True,True,True,492,2022-11-23 00:00:00
+User20,34,Female,Canada,T-Shirt,Williams LLC,150.96,3.0,244,False,False,True,True,True,493,2022-04-23 00:00:00
+User13,22,Female,UK,Perfume,Herrera-Miller,495.19,2.0,210,False,False,True,False,True,494,2023-05-06 00:00:00
+User1,31,Female,Russia,Bag,Lee Inc,281.51,1.1,809,False,True,False,True,True,495,2022-02-03 00:00:00
+User4,47,Female,Russia,Headphones,Hamilton-Walker,75.56,4.6,943,True,False,True,False,False,496,2022-07-25 00:00:00
+User1,37,Female,USA,T-Shirt,Middleton Group,463.43,2.9,397,False,False,False,True,False,497,2022-01-23 00:00:00
+User13,56,Male,Argentina,Shoes,Martin and Sons,75.58,3.1,630,True,True,False,False,True,498,2022-09-28 00:00:00
+User9,18,Male,Canada,Shoes,"Cantu, Vega and Simon",155.27,3.3,647,False,False,True,True,True,499,2023-05-03 00:00:00
+User16,65,Female,Greece,Watch,Ball Inc,184.4,4.8,594,False,False,False,True,False,500,2022-04-27 00:00:00
+User9,56,Male,New Zealand,Shoes,Campbell Group,376.56,3.5,67,False,True,True,False,True,501,2022-06-16 00:00:00
+User17,24,Male,UK,Laptop,Bray Ltd,59.08,3.8,146,False,False,False,True,True,502,2023-10-31 00:00:00
+User12,46,Female,USA,Bag,"Santos, Quinn and Miller",378.18,2.7,739,False,False,True,True,True,503,2022-12-26 00:00:00
+User11,25,Female,Russia,T-Shirt,"Cruz, Flowers and Howell",45.2,3.1,716,True,False,True,False,False,504,2022-10-29 00:00:00
+User4,34,Female,Argentina,Watch,Day PLC,360.42,3.3,544,False,False,True,True,True,505,2023-10-24 00:00:00
+User7,46,Female,UAE,Jeans,Mclean PLC,376.75,2.0,720,True,False,True,False,True,506,2023-04-10 00:00:00
+User15,21,Male,Belgium,Shoes,Peters LLC,402.18,3.0,280,True,False,False,True,True,507,2023-06-07 00:00:00
+User4,49,Male,Australia,Bag,Munoz Inc,98.5,2.3,675,False,False,True,False,True,508,2022-01-25 00:00:00
+User4,35,Female,India,Laptop,Thompson Group,83.25,2.7,665,True,False,True,True,True,509,2022-05-29 00:00:00
+User5,47,Male,Brazil,Bag,"Garcia, Kemp and Sanchez",265.29,3.3,174,False,False,False,False,True,510,2023-06-08 00:00:00
+User12,42,Male,France,T-Shirt,"Greene, Howard and Cole",153.42,1.1,114,False,True,True,False,False,511,2022-02-06 00:00:00
+User10,43,Female,Belgium,T-Shirt,"Gallagher, Johnson and Clark",319.98,1.9,63,True,True,False,False,True,512,2022-11-25 00:00:00
+User13,50,Female,India,Smartphone,Oneill LLC,56.46,1.7,160,True,False,True,False,True,513,2022-12-03 00:00:00
+User3,22,Male,Greece,Sunglasses,Hernandez Ltd,234.49,4.8,290,False,True,False,True,True,514,2023-05-12 00:00:00
+User5,49,Female,USA,Headphones,"Armstrong, Lucero and Livingston",247.84,3.4,478,True,True,False,False,False,515,2022-12-30 00:00:00
+User1,30,Male,France,Smartphone,"Delgado, Porter and Brown",240.49,4.1,932,True,False,True,False,True,516,2022-12-24 00:00:00
+User9,20,Male,Switzerland,T-Shirt,Lara Ltd,459.28,1.5,21,False,True,False,False,True,517,2023-08-08 00:00:00
+User10,52,Male,Singapore,Watch,"Garcia, Perez and Ramos",332.88,4.7,843,False,False,False,True,True,518,2022-12-19 00:00:00
+User12,44,Male,UK,Sunglasses,Klein-Smith,224.07,4.7,244,False,False,True,True,True,519,2023-04-11 00:00:00
+User11,19,Female,USA,T-Shirt,Lyons Ltd,158.94,3.0,692,False,False,False,True,False,520,2022-05-14 00:00:00
+User16,52,Male,Singapore,Shoes,Sanchez and Sons,385.19,4.9,707,False,True,False,True,True,521,2022-10-23 00:00:00
+User14,43,Male,Canada,Headphones,Thomas and Sons,378.59,1.9,324,False,False,False,True,True,522,2023-04-27 00:00:00
+User16,38,Male,Russia,Smartphone,Evans-Browning,104.74,2.1,264,True,True,True,False,True,523,2022-01-26 00:00:00
+User16,24,Female,Japan,Smartphone,Bennett-Baker,149.27,1.2,865,True,False,True,True,False,524,2022-10-15 00:00:00
+User7,40,Female,USA,Perfume,"Sandoval, Rogers and Welch",50.85,4.6,360,False,False,False,False,True,525,2023-02-14 00:00:00
+User2,49,Female,Russia,Shoes,Brown Inc,254.25,4.7,310,False,True,False,False,False,526,2023-04-06 00:00:00
+User4,41,Female,Russia,Bag,Tanner-Hudson,305.58,1.3,536,True,False,False,False,True,527,2022-01-27 00:00:00
+User13,18,Male,New Zealand,Headphones,"Parsons, Williamson and Wilson",64.98,4.0,471,False,True,False,True,True,528,2022-01-26 00:00:00
+User17,65,Female,India,Perfume,"Baxter, Jefferson and Lane",402.98,3.0,958,True,False,False,True,False,529,2022-10-24 00:00:00
+User16,53,Male,Singapore,Jeans,"Elliott, Sims and Lambert",295.49,3.6,766,False,True,True,False,True,530,2023-08-15 00:00:00
+User11,34,Male,Belgium,Bag,Hill and Sons,46.11,1.1,446,True,True,False,True,False,531,2022-08-08 00:00:00
+User18,20,Female,Greece,Jeans,Anderson-Lee,364.88,2.3,965,False,False,True,False,False,532,2023-12-07 00:00:00
+User20,37,Female,France,T-Shirt,Edwards LLC,259.39,1.1,912,True,True,True,False,True,533,2022-05-31 00:00:00
+User4,30,Male,Canada,T-Shirt,Smith and Sons,351.16,2.0,31,False,True,False,True,True,534,2022-01-14 00:00:00
+User7,65,Female,Canada,Watch,"Kelly, Strickland and Sampson",33.94,4.9,35,False,True,True,True,True,535,2022-05-23 00:00:00
+User16,27,Female,Russia,Headphones,Lewis Inc,398.87,4.7,397,True,False,True,False,False,536,2023-07-03 00:00:00
+User11,64,Female,India,Headphones,Russell-Stokes,256.38,1.8,128,False,True,False,True,True,537,2022-10-23 00:00:00
+User16,29,Male,UK,Headphones,Suarez and Sons,365.02,4.0,122,True,True,True,True,False,538,2023-12-08 00:00:00
+User5,36,Male,New Zealand,Perfume,"Adams, Stevens and Kim",403.25,4.8,741,True,True,True,False,True,539,2022-06-06 00:00:00
+User20,54,Female,UK,Sunglasses,Jones-Waller,207.97,4.0,451,False,True,True,True,True,540,2023-06-23 00:00:00
+User18,47,Female,Italy,Shoes,Martin-Tucker,232.65,2.2,148,True,False,False,True,True,541,2022-11-03 00:00:00
+User17,55,Female,Italy,Sunglasses,King Ltd,352.18,4.0,181,True,False,False,True,True,542,2023-06-30 00:00:00
+User17,56,Female,Switzerland,Smartphone,"Joseph, Guzman and Jones",94.55,4.4,602,True,True,True,True,False,543,2022-11-21 00:00:00
+User6,60,Female,Russia,Shoes,Stone Group,209.05,1.1,621,True,False,True,True,True,544,2023-06-20 00:00:00
+User18,33,Female,Spain,T-Shirt,Johnson Ltd,284.81,4.1,682,False,False,False,True,True,545,2022-11-15 00:00:00
+User6,22,Male,UAE,Perfume,Hays Inc,325.41,3.5,372,True,True,True,False,False,546,2022-04-03 00:00:00
+User11,22,Female,Japan,Headphones,Garcia-Schultz,490.53,1.3,13,False,False,False,True,True,547,2023-11-22 00:00:00
+User8,25,Female,UK,T-Shirt,"Evans, Hill and Howell",177.85,1.5,57,False,True,False,True,False,548,2022-04-26 00:00:00
+User7,30,Male,India,Headphones,"Hall, Mendoza and Jenkins",144.5,1.5,873,False,False,True,True,False,549,2023-01-30 00:00:00
+User19,38,Male,Argentina,Smartphone,Donovan Ltd,30.84,2.0,282,True,False,True,False,True,550,2023-04-15 00:00:00
+User9,41,Female,Brazil,T-Shirt,Smith Group,414.17,4.6,869,False,False,False,False,True,551,2022-07-19 00:00:00
+User5,35,Male,France,Headphones,"Rodriguez, Haney and Lutz",324.95,1.7,68,True,True,False,True,False,552,2023-07-29 00:00:00
+User19,31,Female,Brazil,Sunglasses,Jones Group,133.04,4.7,720,False,True,True,True,True,553,2022-02-12 00:00:00
+User2,29,Female,India,Laptop,Hill-Butler,64.75,3.2,835,False,True,False,True,True,554,2022-03-05 00:00:00
+User13,65,Male,Brazil,Laptop,Bennett-Martinez,18.5,4.1,458,True,True,True,False,True,555,2022-01-06 00:00:00
+User18,33,Male,Singapore,Jeans,Cook-Reed,300.77,4.6,503,True,True,False,False,False,556,2022-05-22 00:00:00
+User15,34,Female,France,Perfume,Costa-Robertson,198.02,4.7,243,False,True,True,False,False,557,2023-04-02 00:00:00
+User16,24,Male,Argentina,Smartphone,"Vasquez, Burns and Williams",490.58,4.6,771,True,True,True,False,False,558,2023-09-20 00:00:00
+User8,24,Female,USA,Jeans,"Becker, Berger and Brown",268.31,3.6,479,False,True,False,True,True,559,2022-09-30 00:00:00
+User10,33,Female,Singapore,Watch,"Tucker, Barnes and Vega",365.53,1.6,671,False,True,False,False,False,560,2023-08-10 00:00:00
+User8,23,Male,Russia,T-Shirt,"Villa, Thompson and Ramirez",435.96,2.5,908,False,True,False,True,True,561,2022-07-01 00:00:00
+User17,19,Male,Australia,Headphones,Patterson LLC,157.8,2.1,843,False,True,False,False,False,562,2023-01-15 00:00:00
+User3,31,Male,Spain,T-Shirt,"Wall, Edwards and Huber",137.56,2.0,923,False,True,False,True,False,563,2022-12-20 00:00:00
+User8,41,Male,Belgium,T-Shirt,Hernandez Group,114.18,2.5,680,False,False,True,False,True,564,2022-02-23 00:00:00
+User7,51,Male,Japan,Laptop,Vasquez PLC,205.37,3.3,902,True,True,True,False,False,565,2022-11-13 00:00:00
+User13,65,Male,Australia,Watch,"Porter, Fitzgerald and Adkins",15.39,3.9,455,True,True,True,True,True,566,2022-03-24 00:00:00
+User1,63,Male,Brazil,Watch,"Davenport, Schultz and Anderson",469.92,3.5,295,False,True,False,True,True,567,2023-11-18 00:00:00
+User6,38,Male,Australia,T-Shirt,"Smith, Edwards and Carter",334.6,4.9,943,False,False,True,False,True,568,2022-12-16 00:00:00
+User16,47,Male,India,Perfume,"Nelson, Espinoza and Castro",231.54,2.5,533,False,True,False,True,True,569,2023-06-30 00:00:00
+User10,27,Male,Greece,Shoes,Collins Inc,169.19,1.8,910,False,True,True,False,True,570,2023-01-20 00:00:00
+User6,18,Male,France,Laptop,Nguyen PLC,422.75,3.4,553,False,True,False,False,False,571,2022-05-15 00:00:00
+User2,58,Male,New Zealand,T-Shirt,Hughes PLC,181.57,3.9,341,True,True,False,True,True,572,2022-08-07 00:00:00
+User9,44,Male,India,Laptop,White Group,217.81,2.2,254,True,False,True,False,True,573,2022-09-28 00:00:00
+User9,57,Female,Spain,Jeans,Clarke-Reese,301.65,3.9,450,False,True,False,True,False,574,2023-02-11 00:00:00
+User12,34,Male,UK,Laptop,Sherman Inc,93.99,1.9,916,False,False,True,False,True,575,2022-05-03 00:00:00
+User8,53,Female,France,Watch,"Harris, Garrett and Walker",198.45,1.5,620,False,False,False,True,False,576,2022-11-16 00:00:00
+User20,30,Male,Russia,Perfume,Rogers PLC,439.37,2.8,51,True,False,True,False,False,577,2022-11-24 00:00:00
+User14,37,Female,Japan,Headphones,Rodgers-Roberts,454.03,2.4,892,True,False,True,True,True,578,2023-03-31 00:00:00
+User4,56,Female,Switzerland,T-Shirt,Norman-Mills,46.2,4.4,429,True,False,True,False,False,579,2022-09-19 00:00:00
+User4,28,Male,Brazil,Smartphone,"Jackson, Mccullough and Johnson",231.13,3.8,20,True,True,False,False,True,580,2023-04-23 00:00:00
+User18,53,Male,UK,Laptop,Daniel PLC,135.0,2.1,210,False,True,True,False,False,581,2022-11-13 00:00:00
+User4,19,Male,Singapore,Perfume,Brown-Bush,152.08,3.4,110,False,True,False,False,False,582,2022-06-02 00:00:00
+User6,36,Male,Belgium,T-Shirt,Vargas Ltd,39.26,4.6,758,False,True,True,True,False,583,2022-06-17 00:00:00
+User1,59,Female,Greece,Shoes,Williams Ltd,243.02,2.9,65,False,True,True,False,False,584,2023-10-02 00:00:00
+User10,47,Female,Italy,Sunglasses,Jackson Ltd,496.93,4.9,950,False,False,False,False,True,585,2023-08-27 00:00:00
+User8,30,Male,Italy,Perfume,Stevens PLC,343.32,2.5,144,False,True,True,True,True,586,2023-01-13 00:00:00
+User2,42,Female,India,Jeans,"Johnson, Robles and Hammond",488.23,1.6,741,False,False,True,False,True,587,2022-11-29 00:00:00
+User11,61,Male,UK,Bag,Powell-Turner,193.42,3.9,355,False,False,False,True,True,588,2023-02-05 00:00:00
+User1,40,Female,Australia,Shoes,Phillips-Rice,286.78,3.2,649,True,True,True,False,False,589,2022-11-11 00:00:00
+User8,46,Male,Canada,Bag,Green Inc,237.28,4.0,83,False,True,True,True,False,590,2023-09-07 00:00:00
+User8,18,Female,Canada,Jeans,Henry Ltd,285.84,1.8,491,True,True,True,True,False,591,2022-01-12 00:00:00
+User4,37,Male,Argentina,Perfume,King-Mckay,192.58,3.5,476,True,True,True,False,False,592,2022-07-13 00:00:00
+User4,64,Male,UK,Jeans,"Miranda, Hernandez and Allen",481.09,4.7,192,True,True,True,True,False,593,2023-01-17 00:00:00
+User6,23,Female,Italy,Smartphone,"Cook, Gutierrez and Acosta",182.43,3.3,12,True,False,True,True,False,594,2023-08-27 00:00:00
+User17,58,Male,Greece,Headphones,Peterson Inc,227.32,1.4,316,False,True,False,True,False,595,2023-03-30 00:00:00
+User13,56,Male,Italy,Perfume,"Ingram, Schaefer and Dunn",414.86,3.7,121,False,True,False,True,False,596,2023-05-15 00:00:00
+User1,43,Female,Switzerland,Bag,Shepard-Weber,282.78,2.9,980,False,True,True,False,True,597,2022-12-04 00:00:00
+User17,27,Male,Canada,Perfume,Haney LLC,309.77,2.0,678,False,False,True,True,True,598,2022-06-28 00:00:00
+User3,62,Male,UK,Headphones,Fitzpatrick Ltd,271.92,1.1,974,True,True,True,True,False,599,2023-09-12 00:00:00
+User15,47,Male,Russia,Headphones,"Floyd, Silva and Donovan",128.46,2.6,684,True,False,False,True,False,600,2022-07-28 00:00:00
+User9,30,Female,USA,T-Shirt,Davis LLC,335.92,1.8,663,False,False,False,True,False,601,2023-04-15 00:00:00
+User14,28,Male,Switzerland,Smartphone,May-Fields,296.3,1.4,412,True,False,True,False,True,602,2022-09-29 00:00:00
+User20,57,Male,Japan,Bag,Myers-Richardson,214.6,2.0,556,False,False,False,True,True,603,2023-11-04 00:00:00
+User5,47,Female,UK,Shoes,"Williams, Davis and Wells",22.26,3.1,134,True,False,True,True,False,604,2023-07-26 00:00:00
+User16,42,Male,USA,Shoes,Saunders Group,77.52,4.4,688,True,True,True,True,False,605,2022-05-30 00:00:00
+User8,47,Male,Japan,Laptop,Lambert-Bennett,189.2,3.0,612,True,False,False,False,False,606,2023-09-01 00:00:00
+User18,24,Female,Italy,Smartphone,Lucero-Booker,452.15,3.0,307,False,False,False,False,True,607,2022-02-02 00:00:00
+User6,41,Male,UK,T-Shirt,"Pratt, Warner and Wall",86.44,3.4,990,False,True,False,True,True,608,2022-08-05 00:00:00
+User3,29,Male,Singapore,Laptop,"Smith, Garcia and Alvarado",194.68,4.8,296,True,True,True,True,True,609,2022-01-23 00:00:00
+User19,51,Female,Singapore,Shoes,Lynn-Smith,465.33,2.1,162,True,True,False,False,False,610,2023-07-03 00:00:00
+User14,57,Female,Japan,Shoes,"Perez, Humphrey and Pitts",466.78,1.3,968,False,True,False,True,False,611,2022-02-06 00:00:00
+User7,44,Male,Belgium,Smartphone,Smith-Kennedy,213.06,1.8,409,False,False,True,True,True,612,2022-11-09 00:00:00
+User15,61,Female,USA,Watch,Johnston-Williams,254.59,1.4,638,False,True,False,True,False,613,2023-06-22 00:00:00
+User2,40,Female,Switzerland,Smartphone,Chen-Sullivan,271.09,4.1,102,True,True,True,True,False,614,2022-10-02 00:00:00
+User11,62,Female,USA,Perfume,Smith Ltd,282.94,1.8,374,False,False,True,False,False,615,2022-11-29 00:00:00
+User13,50,Female,France,Sunglasses,Carpenter Group,203.62,3.9,235,True,False,True,False,True,616,2022-11-01 00:00:00
+User17,46,Male,Brazil,Headphones,"Gonzalez, Shaw and Payne",257.64,3.3,369,False,True,True,True,False,617,2022-09-05 00:00:00
+User10,29,Female,Russia,Perfume,"Carlson, Vega and Morgan",148.74,4.0,347,True,False,True,False,True,618,2022-11-10 00:00:00
+User19,36,Male,Brazil,Watch,Lawrence LLC,248.3,1.7,978,True,True,False,False,False,619,2023-08-10 00:00:00
+User20,32,Female,Brazil,Jeans,"Brennan, Stevens and Green",260.76,1.3,569,True,True,False,False,False,620,2023-09-01 00:00:00
+User17,27,Male,Brazil,Smartphone,"Rios, Cook and Maldonado",431.22,1.1,565,False,True,False,True,False,621,2023-07-15 00:00:00
+User12,54,Female,Italy,Perfume,Cisneros PLC,303.44,2.9,419,True,True,True,False,True,622,2023-02-11 00:00:00
+User19,21,Male,UAE,T-Shirt,"Hess, Walker and Jackson",415.97,2.6,260,True,True,True,False,False,623,2023-04-17 00:00:00
+User20,51,Male,Australia,Laptop,Douglas-Cook,79.49,2.0,396,True,False,True,False,True,624,2022-12-27 00:00:00
+User7,49,Male,India,Perfume,"Little, Lee and Martinez",185.43,4.4,402,False,True,False,False,True,625,2023-02-23 00:00:00
+User19,58,Female,France,Jeans,Alexander-Washington,67.46,2.5,342,True,False,True,False,False,626,2022-10-26 00:00:00
+User18,25,Female,USA,Shoes,Li-Brooks,429.99,3.4,114,True,False,False,True,False,627,2022-05-23 00:00:00
+User18,28,Male,Greece,T-Shirt,Allen-Stephens,329.41,1.5,924,False,True,False,True,False,628,2022-08-07 00:00:00
+User14,31,Male,Greece,Watch,Mendez Inc,48.2,3.7,550,True,False,True,True,True,629,2023-03-10 00:00:00
+User15,43,Male,Brazil,Smartphone,Merritt Inc,416.19,3.2,626,False,True,True,True,True,630,2023-11-16 00:00:00
+User19,40,Female,USA,Shoes,Walker Inc,441.93,3.0,181,False,False,True,True,True,631,2022-03-09 00:00:00
+User19,35,Female,Russia,Headphones,"Drake, Nelson and Wong",390.17,2.4,815,True,False,True,True,True,632,2023-09-20 00:00:00
+User13,53,Male,Japan,Headphones,Foster PLC,95.99,2.7,655,True,False,True,True,True,633,2022-06-21 00:00:00
+User8,51,Male,Singapore,Laptop,Miller-Harrington,121.04,2.1,516,False,True,False,False,False,634,2022-03-06 00:00:00
+User6,62,Male,France,Smartphone,Lewis LLC,420.02,1.3,41,False,False,False,True,False,635,2022-11-08 00:00:00
+User10,19,Male,Argentina,Bag,Patel-Lewis,393.47,2.6,257,False,False,True,False,False,636,2022-06-26 00:00:00
+User9,55,Male,Brazil,Laptop,Williams PLC,166.36,3.0,845,False,True,True,True,False,637,2022-02-15 00:00:00
+User19,27,Male,USA,Headphones,Davis-Ashley,177.47,4.8,425,False,False,True,False,True,638,2023-04-09 00:00:00
+User3,47,Male,Spain,Sunglasses,Garner Group,296.39,2.6,488,True,False,False,False,True,639,2022-01-24 00:00:00
+User19,60,Female,Greece,Jeans,Wheeler-Blanchard,129.3,1.5,863,True,True,True,True,False,640,2023-10-10 00:00:00
+User5,31,Male,USA,Sunglasses,"Ward, Casey and Thompson",217.95,2.9,406,True,False,True,False,True,641,2022-11-18 00:00:00
+User5,55,Male,Switzerland,Bag,"Mills, Miranda and Miller",50.47,2.6,854,False,False,False,True,False,642,2023-07-15 00:00:00
+User18,30,Female,India,Smartphone,"Lucas, Garner and Roberts",44.44,4.6,325,False,True,True,False,False,643,2023-12-21 00:00:00
+User13,58,Male,Spain,Sunglasses,Castillo LLC,230.5,1.2,639,True,False,True,True,True,644,2022-09-01 00:00:00
+User8,26,Female,Belgium,Smartphone,"Gould, Cox and Medina",207.86,2.6,159,False,False,True,False,False,645,2022-05-15 00:00:00
+User12,40,Female,Belgium,Watch,Mclaughlin LLC,287.62,2.9,46,False,False,False,False,False,646,2023-05-30 00:00:00
+User1,19,Female,Brazil,T-Shirt,James-Hoffman,97.63,1.9,215,True,True,False,False,True,647,2022-01-16 00:00:00
+User4,28,Male,Russia,Headphones,Harmon Inc,343.5,2.8,81,False,True,False,False,False,648,2023-12-11 00:00:00
+User1,26,Male,Greece,T-Shirt,Walker-Booth,185.82,1.7,824,True,True,False,False,False,649,2023-05-25 00:00:00
+User7,65,Male,Singapore,T-Shirt,David-Arroyo,52.05,3.8,641,True,False,True,False,False,650,2023-04-30 00:00:00
+User11,33,Female,Japan,T-Shirt,"Collins, Miller and Johns",371.74,4.9,554,False,False,False,False,False,651,2023-09-09 00:00:00
+User6,46,Female,UAE,Headphones,Miller-Montoya,234.23,2.6,211,False,False,False,True,False,652,2022-09-14 00:00:00
+User8,48,Female,Japan,Smartphone,"Johnson, Peterson and Cook",305.75,4.4,143,False,True,False,True,True,653,2023-07-30 00:00:00
+User18,34,Female,Argentina,Laptop,Walker-Miller,462.4,2.7,538,False,True,True,True,True,654,2022-10-17 00:00:00
+User9,25,Male,Greece,Laptop,"Smith, Wilson and Buchanan",234.93,1.7,529,False,True,True,False,True,655,2023-03-03 00:00:00
+User6,43,Male,Greece,Bag,Rodriguez-Little,404.96,2.2,414,False,False,False,False,True,656,2023-12-17 00:00:00
+User3,35,Male,Spain,T-Shirt,Brown PLC,108.44,1.8,16,True,True,False,True,False,657,2023-10-11 00:00:00
+User17,54,Female,Brazil,Bag,"Fox, Williams and Olson",442.01,3.8,869,True,False,True,True,True,658,2023-01-22 00:00:00
+User13,26,Female,UK,Headphones,Merritt-Steele,130.35,2.6,707,False,True,False,False,True,659,2023-07-03 00:00:00
+User16,18,Male,Japan,Sunglasses,"Wolf, Herring and Jones",458.89,4.6,672,False,True,False,False,False,660,2022-03-03 00:00:00
+User10,58,Male,New Zealand,Bag,Patterson-Cooper,403.33,3.2,567,False,False,False,False,False,661,2023-01-06 00:00:00
+User13,48,Female,UK,Perfume,Lara-Rogers,87.39,1.3,827,False,False,False,True,True,662,2022-12-16 00:00:00
+User5,20,Female,UK,Smartphone,"Adams, Prince and Singh",372.19,1.5,556,False,False,False,True,False,663,2023-11-14 00:00:00
+User9,50,Male,Japan,Smartphone,Smith-Perkins,305.78,2.2,120,True,True,True,True,True,664,2022-12-12 00:00:00
+User19,52,Female,India,Laptop,Green LLC,428.72,3.8,192,False,False,True,True,True,665,2022-06-14 00:00:00
+User7,50,Female,UAE,Watch,"Steele, Lopez and Alvarez",435.51,4.4,502,True,True,True,False,False,666,2023-01-10 00:00:00
+User20,24,Male,UK,Smartphone,"Lewis, Trujillo and Allen",172.32,4.5,325,True,True,True,False,False,667,2022-07-03 00:00:00
+User7,34,Female,Singapore,Sunglasses,Young Group,64.54,2.7,241,False,False,True,True,False,668,2022-04-29 00:00:00
+User19,48,Male,Australia,T-Shirt,Hall Group,446.25,3.7,588,False,False,True,True,False,669,2022-10-05 00:00:00
+User16,62,Female,Spain,Bag,"Frank, Taylor and Salas",302.46,1.6,958,False,True,False,True,True,670,2023-12-24 00:00:00
+User11,35,Male,UAE,Sunglasses,Cunningham-Wilcox,233.89,2.8,892,False,True,False,True,True,671,2022-05-28 00:00:00
+User3,46,Female,UAE,Shoes,"Morris, Martin and Gutierrez",19.48,4.5,784,True,True,True,True,False,672,2022-01-10 00:00:00
+User11,29,Male,Canada,Headphones,Baker-Barry,261.52,3.4,662,False,True,False,False,True,673,2022-11-06 00:00:00
+User20,39,Male,Italy,Jeans,"Lopez, Brewer and Garcia",86.26,2.2,219,False,False,False,True,False,674,2023-12-21 00:00:00
+User6,61,Female,Switzerland,Watch,Robinson Group,486.91,3.0,700,True,False,False,True,True,675,2023-06-13 00:00:00
+User2,40,Female,India,Shoes,Torres and Sons,200.89,3.3,370,True,True,True,False,False,676,2023-08-14 00:00:00
+User3,35,Male,Singapore,Jeans,"Reed, Shepard and Marshall",123.54,1.0,972,True,True,False,True,False,677,2022-11-16 00:00:00
+User1,27,Male,Belgium,Jeans,Thornton Ltd,435.64,3.1,908,False,False,True,True,True,678,2023-11-30 00:00:00
+User15,52,Female,UK,Smartphone,Mcintyre-Freeman,240.31,3.0,382,True,False,True,True,True,679,2022-02-02 00:00:00
+User10,57,Male,Canada,Smartphone,Mccann Ltd,325.12,2.6,715,False,False,True,False,True,680,2023-06-22 00:00:00
+User6,18,Female,Spain,Shoes,Jackson-Noble,118.13,4.8,131,True,False,False,False,False,681,2023-02-26 00:00:00
+User16,54,Male,Canada,Laptop,"Gonzales, Coleman and Lopez",236.55,2.9,669,True,False,True,False,False,682,2023-10-07 00:00:00
+User8,39,Female,Australia,Smartphone,White-Gilmore,138.3,3.0,36,True,False,False,True,True,683,2022-07-30 00:00:00
+User18,36,Female,Canada,T-Shirt,Adams-Lee,412.98,1.7,930,False,False,False,False,True,684,2023-08-26 00:00:00
+User19,49,Male,France,Shoes,"Schwartz, Gutierrez and Keller",45.25,4.9,592,True,False,False,True,True,685,2022-10-14 00:00:00
+User1,29,Male,New Zealand,Jeans,Hensley Inc,259.51,3.7,379,False,True,False,False,True,686,2023-06-14 00:00:00
+User2,33,Female,Brazil,Jeans,Johnson-Cummings,264.2,2.4,947,True,True,False,False,False,687,2022-01-28 00:00:00
+User17,55,Male,Japan,Perfume,Sullivan-Christensen,74.73,1.8,579,True,False,False,True,False,688,2022-11-07 00:00:00
+User15,31,Female,Japan,Smartphone,"Williams, Reed and Brown",338.07,2.9,426,False,False,True,False,False,689,2023-12-28 00:00:00
+User8,33,Female,UAE,Headphones,"Garner, Owen and Hamilton",432.93,1.8,303,False,True,False,False,True,690,2022-03-08 00:00:00
+User8,38,Male,Italy,Smartphone,"Franklin, Garcia and White",422.45,1.0,640,True,True,True,True,True,691,2022-04-09 00:00:00
+User10,39,Male,Japan,Headphones,"Pratt, George and Mcdaniel",437.16,2.5,604,True,False,True,False,True,692,2023-06-27 00:00:00
+User17,55,Male,France,Perfume,"Williams, Mills and Nguyen",374.16,1.8,330,False,True,False,True,False,693,2023-02-06 00:00:00
+User19,42,Male,USA,Bag,"Hanson, Fisher and Williams",201.15,1.2,126,False,True,False,False,False,694,2023-11-22 00:00:00
+User4,49,Female,India,Bag,Sanchez Ltd,313.39,3.2,295,True,True,False,True,True,695,2023-04-08 00:00:00
+User8,21,Male,Brazil,Smartphone,Merritt Group,60.85,2.3,104,True,True,False,False,False,696,2022-08-27 00:00:00
+User4,39,Male,Singapore,Jeans,Fernandez PLC,252.39,1.2,504,False,True,False,True,False,697,2022-10-09 00:00:00
+User2,64,Male,Italy,Sunglasses,Lee-Neal,119.04,2.9,373,False,True,True,False,False,698,2023-04-27 00:00:00
+User13,43,Female,Switzerland,Bag,Perry Ltd,101.78,2.2,555,True,True,True,False,True,699,2023-04-11 00:00:00
+User16,38,Male,UAE,Jeans,"Perez, Adams and Burch",33.35,2.9,562,True,False,True,False,True,700,2023-05-26 00:00:00
+User20,55,Female,New Zealand,Smartphone,"Mercado, Williams and Hill",133.8,2.4,890,True,True,True,False,False,701,2022-01-07 00:00:00
+User17,48,Male,Brazil,Perfume,Lambert-Soto,369.09,2.9,908,False,False,True,False,False,702,2022-02-01 00:00:00
+User12,33,Male,Italy,Laptop,Cole-Haas,459.19,2.9,539,False,True,True,True,False,703,2022-03-02 00:00:00
+User2,53,Female,Greece,Shoes,"Young, Bray and Hammond",455.34,3.5,190,True,False,False,True,False,704,2023-06-03 00:00:00
+User2,42,Male,Japan,Headphones,Davis-Jones,20.57,3.5,758,False,False,True,True,False,705,2022-03-02 00:00:00
+User1,47,Female,Japan,Perfume,Morgan and Sons,129.06,2.5,441,False,True,True,True,False,706,2023-07-08 00:00:00
+User12,37,Male,UAE,Laptop,Rogers Ltd,119.68,2.1,417,False,True,True,False,True,707,2023-05-13 00:00:00
+User6,28,Male,Russia,Jeans,Gibbs-Hernandez,140.53,3.6,329,True,False,True,False,True,708,2022-12-04 00:00:00
+User20,40,Female,Italy,Watch,Soto-Hughes,352.5,1.5,344,True,False,True,True,True,709,2023-09-30 00:00:00
+User1,30,Male,Australia,Shoes,Stephens-Steele,430.34,3.7,848,True,False,True,False,False,710,2023-05-16 00:00:00
+User18,46,Female,Russia,Shoes,"Vazquez, Miller and Rice",290.11,4.8,495,True,False,False,True,False,711,2022-06-01 00:00:00
+User11,55,Female,Argentina,Watch,Glover-Frye,22.0,5.0,6,True,False,True,True,False,712,2022-12-23 00:00:00
+User20,65,Female,Australia,Smartphone,"Jimenez, Cobb and Krause",332.2,2.8,751,True,False,True,False,False,713,2023-09-29 00:00:00
+User9,54,Male,India,Sunglasses,"Martin, Anderson and Davis",59.46,4.0,860,False,True,True,False,True,714,2023-11-08 00:00:00
+User13,49,Male,New Zealand,T-Shirt,Smith-Johnson,118.75,3.9,563,True,False,False,False,True,715,2023-10-24 00:00:00
+User4,62,Male,India,T-Shirt,"Smith, Schmidt and Williams",370.99,2.7,947,True,False,False,True,True,716,2022-10-31 00:00:00
+User19,52,Male,India,Smartphone,Cox-Ruiz,352.8,1.2,511,False,True,True,True,True,717,2023-03-01 00:00:00
+User5,45,Female,UAE,Jeans,Carroll-Ruiz,338.27,3.1,549,False,True,False,False,True,718,2022-09-28 00:00:00
+User20,36,Female,Belgium,Bag,"Hunt, Gamble and Dunlap",181.61,3.1,132,True,False,False,True,False,719,2023-02-02 00:00:00
+User6,55,Male,Russia,Perfume,Holmes-Johnson,67.57,4.2,483,True,False,False,False,False,720,2022-01-09 00:00:00
+User10,39,Male,Belgium,Jeans,Holt-Ramirez,54.06,4.8,353,True,False,True,True,True,721,2022-12-16 00:00:00
+User13,25,Male,UK,Sunglasses,Lane-Brown,176.67,1.9,284,False,True,False,False,False,722,2023-08-04 00:00:00
+User16,57,Male,Belgium,Smartphone,Williams-Johnson,235.77,4.4,938,True,True,False,True,False,723,2022-08-14 00:00:00
+User9,56,Female,Australia,Bag,Robinson PLC,276.9,4.0,861,True,True,True,False,False,724,2022-07-24 00:00:00
+User11,29,Female,Switzerland,Shoes,"Tyler, Hernandez and Leblanc",149.84,2.0,304,False,False,True,True,False,725,2022-01-16 00:00:00
+User13,29,Male,Belgium,Perfume,"Jones, Campbell and Love",200.63,2.2,175,True,True,True,True,True,726,2023-12-01 00:00:00
+User20,41,Female,Argentina,Perfume,Nguyen Ltd,165.35,2.9,644,True,False,False,True,False,727,2023-06-10 00:00:00
+User12,56,Male,Canada,Headphones,Robertson-Wagner,161.62,1.8,65,False,False,False,False,True,728,2023-08-23 00:00:00
+User10,62,Male,Japan,Perfume,Rangel Inc,156.24,2.2,765,True,True,False,True,True,729,2022-08-20 00:00:00
+User12,41,Female,Belgium,Jeans,Baxter-Richardson,494.58,4.9,798,True,False,False,False,False,730,2023-08-29 00:00:00
+User13,65,Male,India,Perfume,"Carey, Barton and Garcia",257.34,1.5,957,True,True,True,True,True,731,2023-07-15 00:00:00
+User6,63,Female,France,Headphones,Long-Webster,257.91,1.3,430,True,False,True,False,True,732,2023-03-19 00:00:00
+User17,41,Male,Russia,Shoes,Serrano Inc,73.03,1.1,492,False,True,False,False,False,733,2023-12-27 00:00:00
+User6,23,Male,Switzerland,Shoes,"Esparza, Herring and Thornton",172.32,4.5,529,False,True,True,True,True,734,2022-06-15 00:00:00
+User10,43,Male,Spain,T-Shirt,Waters PLC,97.75,2.8,698,True,True,False,False,True,735,2023-02-08 00:00:00
+User17,50,Female,Greece,Laptop,Bennett PLC,146.47,2.1,935,False,True,False,True,False,736,2023-05-21 00:00:00
+User20,47,Female,Brazil,T-Shirt,Rogers-Weaver,455.32,3.6,554,True,True,True,False,True,737,2023-11-01 00:00:00
+User4,48,Male,Singapore,Bag,Davidson and Sons,258.43,4.3,903,True,True,False,True,False,738,2022-04-21 00:00:00
+User20,39,Female,Australia,Smartphone,"Brown, Allen and Parks",327.49,4.7,485,True,False,True,False,True,739,2023-10-20 00:00:00
+User8,40,Female,USA,Headphones,"Sanchez, Johnson and Moses",84.36,2.7,591,False,True,False,True,True,740,2022-04-05 00:00:00
+User3,21,Female,Spain,Laptop,Garcia Inc,224.52,1.9,400,True,False,False,True,True,741,2022-01-15 00:00:00
+User14,57,Male,Spain,Shoes,Young Inc,326.99,4.6,451,False,False,False,False,False,742,2022-01-23 00:00:00
+User20,53,Male,Russia,Jeans,"Ball, Curtis and Reid",473.75,3.3,370,False,True,False,True,False,743,2023-06-11 00:00:00
+User8,51,Female,Greece,Smartphone,Martinez Inc,160.87,3.8,991,True,False,True,True,False,744,2023-10-30 00:00:00
+User11,55,Male,Switzerland,Bag,Martin and Sons,433.91,4.9,892,True,False,True,True,False,745,2022-06-01 00:00:00
+User16,46,Male,Greece,Sunglasses,Ramos-Montgomery,81.21,2.9,354,False,False,True,True,False,746,2022-07-22 00:00:00
+User8,64,Female,Canada,Laptop,Hernandez-Green,210.18,3.2,655,True,False,True,False,True,747,2022-08-08 00:00:00
+User20,46,Male,Switzerland,Perfume,Houston-Jones,223.65,2.9,758,True,True,True,True,True,748,2022-12-01 00:00:00
+User6,38,Female,Spain,T-Shirt,Morgan-Campbell,175.11,3.8,191,False,True,False,False,False,749,2022-09-23 00:00:00
+User7,37,Male,Japan,Smartphone,"Smith, Smith and Lee",116.49,2.0,179,False,False,False,False,False,750,2022-01-07 00:00:00
+User16,38,Female,Greece,Bag,Johnson PLC,39.99,3.0,412,False,False,False,True,False,751,2023-12-22 00:00:00
+User11,28,Male,Switzerland,Headphones,"Cordova, Kane and Patterson",238.95,2.3,779,False,True,True,False,False,752,2022-03-12 00:00:00
+User15,26,Male,Australia,Laptop,Smith-Weaver,136.19,2.6,917,False,False,False,True,True,753,2023-08-06 00:00:00
+User14,38,Female,Canada,Headphones,Anderson Ltd,493.43,3.8,951,True,True,False,False,True,754,2022-10-07 00:00:00
+User2,32,Female,India,T-Shirt,Griffin-Moore,330.71,1.9,610,False,False,False,False,True,755,2023-01-17 00:00:00
+User2,32,Male,France,Sunglasses,Jenkins-Harris,490.38,2.4,564,True,True,True,True,False,756,2023-09-03 00:00:00
+User19,25,Female,Brazil,Jeans,Avila LLC,197.47,4.6,467,False,True,False,True,True,757,2023-03-24 00:00:00
+User10,32,Male,Russia,Bag,Davis-Stafford,404.01,1.3,361,False,True,True,False,True,758,2023-05-06 00:00:00
+User15,62,Female,USA,Perfume,Murray-Garcia,378.39,2.1,284,True,True,True,False,True,759,2022-08-19 00:00:00
+User14,62,Male,Canada,Laptop,Rivera PLC,143.83,3.9,616,True,True,True,False,False,760,2023-01-22 00:00:00
+User9,42,Male,India,Shoes,Larson-Johnson,102.85,3.2,585,False,True,False,True,False,761,2023-12-16 00:00:00
+User9,38,Male,Canada,Watch,Wilson-Scott,117.44,4.1,81,True,True,True,True,True,762,2023-10-16 00:00:00
+User5,32,Male,India,Perfume,"Campbell, Bradley and Callahan",209.39,1.3,370,True,False,False,True,False,763,2022-02-15 00:00:00
+User6,20,Female,UAE,Smartphone,Hopkins Inc,329.32,3.9,690,True,True,True,False,False,764,2022-09-17 00:00:00
+User6,61,Female,Russia,Sunglasses,Li Group,296.44,2.6,394,False,False,True,False,False,765,2023-04-24 00:00:00
+User2,62,Female,Japan,T-Shirt,"Thompson, Collier and Jimenez",317.87,3.2,702,False,False,True,True,False,766,2022-09-15 00:00:00
+User15,61,Female,Russia,Smartphone,Thompson Inc,229.73,3.6,429,True,False,True,True,True,767,2022-05-13 00:00:00
+User3,34,Male,New Zealand,Jeans,Thompson-Cervantes,441.5,1.7,344,False,False,True,False,True,768,2022-12-08 00:00:00
+User18,55,Female,Spain,Perfume,Taylor Inc,90.05,3.4,862,False,True,False,True,True,769,2022-09-11 00:00:00
+User5,37,Female,Australia,T-Shirt,"Navarro, Harmon and Holland",441.24,4.0,488,False,False,False,False,True,770,2022-05-10 00:00:00
+User14,39,Male,France,Smartphone,Walker LLC,217.83,3.8,446,True,False,True,True,True,771,2022-04-05 00:00:00
+User6,48,Female,USA,Sunglasses,"Willis, Paul and Rios",223.24,2.1,948,False,True,True,False,True,772,2022-03-31 00:00:00
+User10,20,Male,New Zealand,Shoes,Shannon PLC,109.96,1.0,235,False,False,False,True,True,773,2022-03-27 00:00:00
+User1,28,Female,Greece,Bag,Duncan LLC,250.19,1.8,775,False,True,True,True,False,774,2023-11-28 00:00:00
+User12,59,Female,India,Smartphone,"Smith, Benjamin and Brown",463.53,4.9,108,True,True,False,True,True,775,2023-01-30 00:00:00
+User2,31,Female,Spain,Headphones,Smith-Herman,268.44,4.3,21,True,True,True,False,False,776,2022-09-28 00:00:00
+User1,30,Female,Greece,Bag,"Long, Smith and Kelley",397.03,4.7,884,False,True,True,True,True,777,2023-06-27 00:00:00
+User5,56,Male,Greece,Headphones,"Luna, Williams and Montes",201.55,2.2,738,False,True,False,True,True,778,2023-10-06 00:00:00
+User19,25,Female,France,Sunglasses,Gamble and Sons,456.53,3.7,380,False,False,True,False,False,779,2023-12-02 00:00:00
+User17,54,Male,Spain,Laptop,Lopez-Martinez,246.3,3.4,832,True,False,True,False,False,780,2023-12-01 00:00:00
+User10,61,Male,Singapore,Smartphone,Flores-Lara,145.13,4.2,380,False,False,False,True,False,781,2022-10-15 00:00:00
+User6,55,Female,USA,Perfume,Fowler LLC,162.2,2.0,324,False,True,False,True,True,782,2023-03-15 00:00:00
+User16,42,Male,Argentina,Laptop,Elliott Group,296.8,4.4,217,False,False,False,False,True,783,2022-03-06 00:00:00
+User8,29,Male,Australia,Watch,Long-White,57.28,3.0,328,False,True,True,True,False,784,2023-07-27 00:00:00
+User16,34,Female,Italy,Laptop,Stephens-Bryant,63.93,4.4,287,False,True,True,False,True,785,2022-01-12 00:00:00
+User10,60,Female,UAE,Watch,Walker Ltd,418.4,1.5,780,True,False,True,True,True,786,2023-08-14 00:00:00
+User1,19,Female,Argentina,Shoes,Bruce Inc,312.66,2.5,912,True,False,False,False,False,787,2022-06-30 00:00:00
+User2,18,Female,New Zealand,Sunglasses,Wright LLC,89.84,3.9,138,False,False,False,False,True,788,2023-09-18 00:00:00
+User7,55,Female,India,T-Shirt,Patton PLC,337.79,2.8,385,True,True,True,False,False,789,2022-01-01 00:00:00
+User20,57,Female,Brazil,Shoes,Rivera-Lindsey,495.69,1.1,610,True,False,False,False,False,790,2022-10-16 00:00:00
+User15,27,Male,Spain,Laptop,Williams-Kelley,199.12,1.5,910,True,True,True,False,True,791,2023-04-10 00:00:00
+User9,61,Male,Brazil,Smartphone,"Murphy, Thompson and Wood",98.74,2.1,295,True,False,True,True,False,792,2022-06-22 00:00:00
+User8,55,Female,Canada,Perfume,Martin and Sons,416.79,2.9,78,False,True,False,True,True,793,2022-03-18 00:00:00
+User8,61,Female,UAE,Smartphone,"Robinson, Guzman and Pratt",295.16,4.8,923,True,False,False,True,False,794,2023-03-29 00:00:00
+User15,43,Female,India,Headphones,Hunter-Moran,263.37,4.7,374,True,True,True,True,True,795,2023-10-04 00:00:00
+User17,26,Male,New Zealand,Shoes,"Young, Casey and Clark",344.27,1.3,591,True,True,False,False,False,796,2022-12-31 00:00:00
+User19,65,Female,Greece,T-Shirt,"Valdez, Becker and Ramos",77.47,4.6,882,False,True,True,False,False,797,2023-10-08 00:00:00
+User5,64,Male,USA,T-Shirt,Mueller-Klein,163.55,1.3,451,True,True,False,False,False,798,2023-11-25 00:00:00
+User9,24,Male,Brazil,Shoes,"Martinez, Cooper and Lowery",462.67,4.1,179,True,True,False,False,True,799,2023-03-28 00:00:00
+User6,59,Female,Australia,Smartphone,"Parker, Cannon and Glenn",64.16,2.2,185,False,False,False,True,False,800,2022-11-17 00:00:00
+User2,21,Female,Brazil,Jeans,"Hutchinson, Wood and Franklin",205.62,1.6,317,False,True,False,True,False,801,2023-01-23 00:00:00
+User9,62,Male,USA,Jeans,"Dean, Webb and Fields",35.72,2.9,31,True,True,False,False,True,802,2022-02-20 00:00:00
+User10,51,Female,USA,Shoes,Russell and Sons,248.69,3.2,294,False,False,False,False,True,803,2023-07-29 00:00:00
+User17,65,Male,India,Shoes,Duarte-Mclaughlin,281.9,1.1,794,False,False,True,True,False,804,2022-06-09 00:00:00
+User14,65,Male,Japan,Watch,Chandler-Harding,460.87,3.1,381,True,True,True,True,True,805,2022-06-22 00:00:00
+User10,46,Female,Italy,Laptop,Marshall LLC,293.01,3.7,723,False,True,False,True,False,806,2023-06-30 00:00:00
+User12,54,Female,Switzerland,Bag,Hall-Thomas,169.18,2.8,805,False,True,False,True,False,807,2022-06-18 00:00:00
+User19,41,Male,Spain,Laptop,Chandler-Perkins,385.44,3.2,151,False,False,False,False,True,808,2023-09-25 00:00:00
+User11,38,Male,Japan,Jeans,Cox-Curry,128.81,4.5,604,True,False,True,False,True,809,2023-01-05 00:00:00
+User2,43,Female,Switzerland,Sunglasses,"Wilson, Miller and Cooley",205.31,2.7,117,False,True,True,False,True,810,2023-07-12 00:00:00
+User2,21,Female,New Zealand,Headphones,Gonzalez-Giles,282.28,4.7,371,False,True,True,True,False,811,2023-01-21 00:00:00
+User4,21,Male,Canada,Jeans,"Young, Riley and Dixon",143.92,3.7,998,False,True,False,True,False,812,2022-02-23 00:00:00
+User6,35,Female,Argentina,Laptop,Wolf-Hunt,143.35,3.4,175,False,True,True,False,True,813,2022-06-17 00:00:00
+User5,64,Male,UK,Bag,"Thornton, Williams and Martinez",387.25,2.5,500,False,False,False,True,True,814,2023-10-05 00:00:00
+User17,28,Female,USA,T-Shirt,Tate-Carter,273.75,3.0,162,True,True,True,False,False,815,2023-11-03 00:00:00
+User6,61,Female,Italy,Sunglasses,"Armstrong, Walker and Gentry",397.85,2.4,470,False,False,False,False,False,816,2023-12-29 00:00:00
+User11,22,Female,New Zealand,T-Shirt,Gutierrez Ltd,334.09,3.1,624,True,False,True,True,True,817,2023-08-15 00:00:00
+User8,64,Female,New Zealand,Bag,"Rivers, Garcia and Davis",499.66,2.9,232,False,True,True,False,False,818,2023-07-19 00:00:00
+User13,36,Female,Japan,Headphones,Gutierrez-Campbell,431.88,1.7,1,True,True,False,True,True,819,2023-09-15 00:00:00
+User18,46,Female,Greece,Laptop,Fisher Group,310.54,4.2,444,False,False,True,False,True,820,2022-02-07 00:00:00
+User1,35,Female,India,Headphones,Klein-Thomas,53.67,4.0,734,True,False,True,False,True,821,2023-08-12 00:00:00
+User1,53,Female,Brazil,Shoes,Lee Group,350.94,3.1,96,False,False,False,False,True,822,2022-03-30 00:00:00
+User20,25,Female,Greece,Jeans,Carroll-Brock,458.16,4.7,41,True,False,True,True,True,823,2022-02-22 00:00:00
+User2,61,Male,Russia,Laptop,Carter-Sanchez,46.31,4.1,296,False,False,True,True,True,824,2023-09-09 00:00:00
+User15,65,Male,Japan,Watch,Simmons LLC,160.37,2.5,956,False,True,False,True,False,825,2023-11-27 00:00:00
+User19,44,Female,Argentina,Jeans,Nguyen and Sons,384.21,4.9,513,True,False,True,True,False,826,2022-07-31 00:00:00
+User15,53,Male,New Zealand,Laptop,Hart PLC,178.11,1.9,217,False,True,False,False,False,827,2022-06-29 00:00:00
+User14,52,Female,India,Shoes,Haney Ltd,238.35,3.4,527,True,True,False,False,True,828,2022-09-01 00:00:00
+User13,22,Male,Switzerland,Laptop,"Walker, Jackson and Hansen",371.07,2.4,372,False,True,True,False,False,829,2022-08-15 00:00:00
+User16,45,Male,Greece,Jeans,Bishop LLC,337.27,3.7,66,True,False,False,False,False,830,2022-03-11 00:00:00
+User14,48,Male,Japan,T-Shirt,Skinner-Cox,116.78,2.6,950,False,True,False,False,False,831,2023-02-07 00:00:00
+User10,40,Female,Brazil,Watch,Jackson-Garcia,151.52,3.1,518,True,False,True,True,True,832,2023-10-23 00:00:00
+User9,48,Female,Singapore,Jeans,"Butler, Hampton and Thomas",138.54,1.2,306,False,False,False,True,False,833,2023-01-21 00:00:00
+User14,42,Male,Singapore,Perfume,Griffith PLC,388.56,3.8,468,True,False,False,True,False,834,2022-02-10 00:00:00
+User16,31,Female,India,Shoes,Carlson-Wallace,126.65,2.0,413,True,False,False,True,True,835,2023-02-18 00:00:00
+User15,36,Male,France,Bag,Henry PLC,495.54,1.6,731,True,True,False,False,True,836,2023-10-19 00:00:00
+User20,50,Male,France,Perfume,Love-Barber,162.84,2.9,979,True,True,False,True,False,837,2022-06-07 00:00:00
+User12,39,Male,Brazil,Headphones,Li Inc,41.18,3.8,202,True,True,False,True,True,838,2022-04-02 00:00:00
+User9,18,Female,Spain,Laptop,Adams-Curtis,71.43,1.2,172,True,True,False,True,True,839,2023-04-05 00:00:00
+User2,56,Female,Canada,T-Shirt,Scott-Lewis,95.39,4.1,512,True,False,False,False,True,840,2023-09-26 00:00:00
+User15,37,Male,Switzerland,Sunglasses,Mathews and Sons,303.21,3.6,353,True,True,True,True,False,841,2022-07-19 00:00:00
+User2,38,Male,Italy,Perfume,Nielsen-Tate,377.28,2.0,538,False,False,False,True,False,842,2023-03-08 00:00:00
+User17,53,Female,Switzerland,T-Shirt,Jones LLC,357.46,4.9,914,True,True,True,True,True,843,2023-06-07 00:00:00
+User7,29,Female,India,Watch,"Phillips, Hicks and Howard",194.44,3.2,157,True,False,False,False,True,844,2023-10-11 00:00:00
+User9,44,Male,Italy,Shoes,"Burton, Miles and Hawkins",379.72,1.3,267,False,True,True,False,False,845,2023-09-28 00:00:00
+User3,31,Male,Spain,T-Shirt,"Norton, Hudson and Grimes",355.01,1.2,557,False,True,True,True,True,846,2022-03-26 00:00:00
+User9,59,Female,Canada,Watch,Hanson Inc,259.03,4.9,726,True,False,True,True,False,847,2022-10-01 00:00:00
+User2,41,Male,New Zealand,Jeans,Martin Group,489.66,3.0,418,True,False,True,False,True,848,2022-08-24 00:00:00
+User11,24,Male,UK,Smartphone,Cunningham-Hernandez,448.77,2.2,661,True,True,False,True,True,849,2023-09-05 00:00:00
+User14,22,Male,France,Headphones,"Martinez, Smith and Parker",173.55,4.0,817,True,False,False,True,True,850,2022-05-25 00:00:00
+User6,19,Male,Argentina,Laptop,Donaldson-Pineda,457.53,4.7,422,True,False,False,True,False,851,2022-09-28 00:00:00
+User16,63,Male,Switzerland,T-Shirt,Brady-Gomez,11.04,4.2,497,False,False,False,False,False,852,2022-10-17 00:00:00
+User16,33,Male,UK,Laptop,Herrera PLC,450.51,2.3,407,True,False,True,True,True,853,2022-01-19 00:00:00
+User6,63,Female,Canada,Laptop,Trujillo PLC,196.73,1.6,54,False,False,False,True,False,854,2023-03-02 00:00:00
+User17,23,Female,Switzerland,Laptop,Aguilar Inc,499.75,4.8,921,True,True,True,False,False,855,2023-06-16 00:00:00
+User16,27,Male,France,Watch,Ross-Johnson,421.11,1.2,34,False,False,True,False,True,856,2023-10-02 00:00:00
+User18,44,Male,Russia,Watch,Snyder Group,105.44,2.8,566,True,False,True,False,False,857,2023-03-16 00:00:00
+User12,46,Male,UK,Smartphone,Nash-Goodwin,323.21,4.4,400,False,False,False,True,False,858,2023-12-28 00:00:00
+User14,29,Male,Russia,Jeans,"Duncan, Clay and Miles",498.03,1.4,946,True,True,True,True,False,859,2022-09-18 00:00:00
+User11,29,Female,Canada,Watch,Moore-Crawford,319.78,2.6,494,True,False,False,True,False,860,2022-09-01 00:00:00
+User15,48,Female,UAE,Perfume,"Smith, Williams and Gonzalez",418.2,1.2,160,False,True,True,True,False,861,2023-10-18 00:00:00
+User17,49,Female,Singapore,Smartphone,"Carrillo, Cruz and Rivera",64.19,4.4,747,True,False,False,False,True,862,2023-07-31 00:00:00
+User8,55,Female,New Zealand,Headphones,"Ramos, Lawson and Martinez",67.94,1.5,703,True,False,True,True,False,863,2023-10-13 00:00:00
+User14,60,Female,UAE,Laptop,Moreno and Sons,224.24,3.2,233,True,False,True,False,False,864,2022-09-09 00:00:00
+User13,33,Male,Singapore,Laptop,Underwood-Melton,441.48,2.0,231,False,True,True,True,True,865,2023-11-08 00:00:00
+User11,28,Male,Singapore,Sunglasses,Carpenter-Anderson,469.28,4.4,750,False,True,False,True,False,866,2023-12-22 00:00:00
+User13,19,Female,Argentina,Perfume,Nguyen and Sons,373.46,4.3,662,True,True,True,False,True,867,2022-09-11 00:00:00
+User9,47,Female,Switzerland,Smartphone,Chavez Ltd,131.75,3.1,496,True,True,True,False,False,868,2023-08-15 00:00:00
+User6,50,Male,New Zealand,Shoes,Luna-Ryan,184.51,4.7,62,True,False,False,False,True,869,2023-05-27 00:00:00
+User13,43,Female,India,Laptop,Mclaughlin-Yang,200.83,3.7,905,False,True,True,False,False,870,2022-03-09 00:00:00
+User10,29,Female,UK,Headphones,"Salazar, Roman and Reyes",25.46,1.5,82,True,False,True,False,False,871,2022-08-07 00:00:00
+User9,64,Female,Australia,Bag,Ruiz Ltd,71.97,4.2,202,False,True,True,True,False,872,2022-07-13 00:00:00
+User2,42,Female,Russia,Bag,Dunn PLC,248.48,3.3,932,True,True,True,False,False,873,2022-10-14 00:00:00
+User8,53,Male,Belgium,Laptop,Snyder-Cooper,68.8,3.1,64,False,True,True,False,False,874,2023-07-20 00:00:00
+User18,49,Male,Singapore,T-Shirt,Escobar-Lopez,149.42,2.6,508,True,True,True,False,True,875,2023-03-11 00:00:00
+User6,65,Female,Greece,Jeans,"Townsend, Reed and Nelson",219.63,4.0,223,False,True,True,False,True,876,2023-11-17 00:00:00
+User3,32,Female,New Zealand,Watch,"Casey, Mcdonald and Richards",327.97,2.1,604,True,True,True,False,False,877,2023-01-14 00:00:00
+User15,53,Male,Russia,Sunglasses,Williams-Harris,187.03,1.8,103,False,False,False,False,True,878,2023-12-16 00:00:00
+User8,36,Male,Greece,Perfume,Evans Inc,277.0,3.6,558,True,True,True,True,True,879,2022-01-23 00:00:00
+User18,43,Female,Spain,Headphones,Smith-Wells,189.02,3.4,51,True,True,True,True,False,880,2022-09-25 00:00:00
+User12,61,Male,Russia,Shoes,Zuniga Group,23.28,4.8,3,True,False,False,False,True,881,2023-10-25 00:00:00
+User19,30,Male,Belgium,Laptop,Taylor Inc,153.96,3.5,666,True,True,False,False,True,882,2023-02-14 00:00:00
+User16,50,Female,Greece,Jeans,"Martin, Patterson and Williams",220.9,1.8,694,False,False,True,False,True,883,2023-04-22 00:00:00
+User19,26,Male,Switzerland,Smartphone,Mueller Group,246.97,4.6,941,False,False,False,True,True,884,2022-03-17 00:00:00
+User6,64,Male,Brazil,T-Shirt,Johnson-Brown,140.49,2.0,233,True,False,True,True,False,885,2022-06-21 00:00:00
+User8,56,Female,USA,Sunglasses,Dunn and Sons,387.34,1.0,706,False,False,True,True,True,886,2022-06-06 00:00:00
+User10,28,Male,India,Smartphone,Flynn Group,235.56,3.8,499,False,True,True,True,False,887,2022-11-07 00:00:00
+User6,46,Male,Singapore,Watch,Reynolds LLC,33.79,2.9,689,True,False,False,True,False,888,2022-03-18 00:00:00
+User15,44,Female,Belgium,Perfume,Martin Group,403.9,5.0,541,False,False,False,True,True,889,2023-06-06 00:00:00
+User11,60,Female,Spain,Jeans,"Patterson, Ferguson and Aguilar",170.82,3.1,481,True,True,True,False,True,890,2023-10-07 00:00:00
+User9,37,Male,UAE,Watch,"Watson, Miller and Taylor",145.45,3.5,170,False,True,False,False,False,891,2023-03-10 00:00:00
+User5,43,Female,France,Headphones,"Weber, Frost and Wallace",474.7,2.2,237,True,True,False,False,True,892,2022-10-23 00:00:00
+User10,28,Male,UK,Headphones,"Armstrong, Thomas and Cooper",127.74,1.7,86,False,False,False,False,False,893,2022-07-07 00:00:00
+User15,22,Male,USA,T-Shirt,"Smith, Barrett and Martinez",174.64,1.2,258,True,False,True,True,False,894,2023-06-02 00:00:00
+User17,47,Male,Brazil,Shoes,Perez Ltd,59.4,2.4,194,False,True,False,True,True,895,2022-12-25 00:00:00
+User12,54,Male,New Zealand,T-Shirt,Adams PLC,58.87,3.2,967,False,True,True,True,True,896,2022-09-23 00:00:00
+User11,61,Male,New Zealand,Headphones,Cantu-Robinson,451.5,1.5,211,True,True,True,False,True,897,2022-09-07 00:00:00
+User16,35,Male,Belgium,Headphones,Benjamin-Patel,196.2,2.2,349,False,True,True,True,True,898,2023-05-04 00:00:00
+User15,65,Female,Greece,Watch,Carson-Taylor,483.35,1.6,282,False,False,True,True,False,899,2022-10-21 00:00:00
+User8,43,Female,New Zealand,Laptop,Nguyen-Washington,85.01,2.9,176,True,True,True,True,True,900,2023-02-16 00:00:00
+User14,25,Male,USA,Perfume,"Coleman, Richmond and Lee",291.97,2.4,919,False,False,True,False,True,901,2023-09-14 00:00:00
+User4,20,Male,Switzerland,T-Shirt,"Thompson, Coleman and Morrison",429.54,3.2,301,False,False,False,True,True,902,2023-01-16 00:00:00
+User10,31,Female,Argentina,Laptop,"Miller, Rose and Booth",333.85,4.9,932,True,True,True,False,True,903,2023-10-16 00:00:00
+User15,63,Male,Brazil,Smartphone,Williams PLC,30.78,3.7,739,False,True,False,True,False,904,2022-12-22 00:00:00
+User12,25,Male,Spain,Jeans,"Blanchard, Burton and Lawrence",181.19,3.2,920,True,True,False,False,True,905,2022-11-21 00:00:00
+User3,30,Female,Argentina,Bag,Stevens-Cox,298.25,1.6,790,True,True,True,True,False,906,2023-03-09 00:00:00
+User14,27,Male,Canada,Headphones,"Floyd, Thompson and Sanchez",196.66,1.7,624,True,False,True,True,True,907,2022-03-07 00:00:00
+User4,38,Female,Greece,Headphones,Lane and Sons,279.55,1.4,529,False,False,False,False,True,908,2022-04-06 00:00:00
+User8,34,Male,Switzerland,T-Shirt,Taylor and Sons,379.28,2.0,277,False,True,False,True,False,909,2022-10-31 00:00:00
+User16,30,Male,Greece,Jeans,Collins-Brady,173.77,4.1,974,False,False,True,True,False,910,2022-05-15 00:00:00
+User2,56,Male,Australia,Sunglasses,Anderson and Sons,498.77,1.5,408,True,True,False,True,False,911,2023-09-03 00:00:00
+User15,38,Male,Greece,Laptop,Miller-Skinner,181.19,4.3,489,True,False,False,True,True,912,2023-01-07 00:00:00
+User2,40,Male,UK,Perfume,"Park, Pope and Herrera",233.73,4.3,395,False,True,False,False,True,913,2023-11-29 00:00:00
+User7,31,Male,Spain,Perfume,Miller Inc,450.94,2.8,357,False,True,False,True,False,914,2022-11-04 00:00:00
+User11,37,Male,Brazil,Sunglasses,"Wright, Morgan and James",84.01,1.3,496,True,False,True,False,True,915,2022-08-24 00:00:00
+User8,19,Female,Australia,Perfume,Davis and Sons,203.22,1.2,219,False,True,True,False,False,916,2023-02-06 00:00:00
+User1,47,Female,Switzerland,Bag,"Jackson, Graves and Contreras",223.66,3.9,82,False,False,False,True,True,917,2022-04-13 00:00:00
+User3,52,Male,Argentina,Headphones,Barton Ltd,210.8,3.0,387,False,True,False,False,False,918,2023-02-09 00:00:00
+User5,65,Male,Italy,Watch,"Young, Hull and Saunders",312.66,4.4,429,True,True,True,False,False,919,2022-02-02 00:00:00
+User5,58,Male,Italy,Headphones,Jones Inc,226.15,2.0,451,True,False,True,False,False,920,2023-10-18 00:00:00
+User3,54,Female,UAE,Shoes,Bishop-Smith,62.76,3.6,740,False,True,False,False,False,921,2022-08-22 00:00:00
+User9,59,Male,Canada,Watch,"Fuentes, Gibbs and Moody",286.32,1.3,826,True,True,True,False,True,922,2023-01-30 00:00:00
+User3,58,Male,Greece,Sunglasses,Walker LLC,56.11,2.8,452,False,True,True,True,True,923,2022-01-28 00:00:00
+User7,27,Female,UK,Smartphone,Black Group,148.07,1.5,303,True,True,False,False,False,924,2023-06-08 00:00:00
+User12,62,Male,Italy,Laptop,Bradford-Anthony,365.05,3.5,313,False,True,True,False,False,925,2022-08-15 00:00:00
+User7,43,Male,UK,Smartphone,Gay-Padilla,211.15,2.9,24,False,False,True,False,False,926,2023-08-06 00:00:00
+User12,60,Male,Australia,Laptop,"Harmon, Maxwell and Stephenson",168.99,1.8,978,False,False,True,True,True,927,2022-06-19 00:00:00
+User12,28,Female,Australia,Smartphone,Simpson PLC,163.49,1.5,462,True,True,True,False,True,928,2023-05-16 00:00:00
+User1,49,Male,Russia,Sunglasses,Krause Ltd,455.68,3.8,914,True,False,True,True,True,929,2023-11-02 00:00:00
+User11,34,Female,Greece,Smartphone,Lyons Inc,485.94,4.5,771,False,True,True,False,True,930,2022-01-19 00:00:00
+User13,40,Male,Australia,Bag,Kelley-Harrison,175.52,2.5,508,False,False,True,True,True,931,2023-05-22 00:00:00
+User16,24,Female,New Zealand,T-Shirt,"Phillips, Davis and Hansen",64.18,1.9,255,True,False,False,True,False,932,2023-09-11 00:00:00
+User14,33,Male,Spain,Smartphone,"Bridges, Hernandez and Diaz",97.95,3.7,704,False,True,False,True,False,933,2023-07-23 00:00:00
+User7,32,Female,Japan,Sunglasses,"Lee, Rodriguez and Scott",466.81,1.3,277,False,False,True,True,False,934,2022-12-25 00:00:00
+User7,56,Male,France,Jeans,"Cain, Smith and Hammond",415.6,2.4,671,True,True,False,False,True,935,2022-08-19 00:00:00
+User5,23,Male,Spain,Bag,Reese Ltd,47.14,2.8,709,True,False,True,False,True,936,2023-12-04 00:00:00
+User2,38,Female,Russia,Jeans,"Ramirez, White and Williams",282.73,3.6,215,False,True,True,True,True,937,2022-10-23 00:00:00
+User3,33,Female,France,Watch,Barron-Williams,153.0,3.1,681,False,True,False,False,False,938,2023-06-07 00:00:00
+User14,42,Male,Italy,Sunglasses,Mendoza Ltd,433.96,2.7,739,False,True,True,True,False,939,2023-09-10 00:00:00
+User6,26,Male,Italy,Bag,Morales PLC,277.45,2.8,828,False,False,True,True,False,940,2023-07-02 00:00:00
+User6,23,Male,Brazil,Jeans,Mays-Moore,279.41,2.6,172,False,False,False,True,True,941,2023-06-01 00:00:00
+User5,36,Female,Japan,Shoes,Campbell-Salazar,111.2,2.1,821,False,False,True,True,True,942,2022-03-25 00:00:00
+User11,32,Male,New Zealand,Watch,"Lewis, Morris and Franco",182.71,4.7,796,False,True,False,True,False,943,2023-06-07 00:00:00
+User19,38,Male,Brazil,Bag,Hines-Roach,107.48,1.3,407,False,True,False,False,False,944,2022-09-23 00:00:00
+User16,57,Male,Italy,Shoes,"Mathews, Davis and Smith",23.13,4.4,686,False,True,False,False,False,945,2022-08-19 00:00:00
+User10,32,Male,Russia,Jeans,"Johnson, Shaffer and Arnold",438.05,2.0,143,False,False,True,False,False,946,2023-03-15 00:00:00
+User19,32,Female,Belgium,Headphones,Fleming-Randall,193.05,4.7,427,False,False,True,True,True,947,2022-08-17 00:00:00
+User16,39,Female,Brazil,Perfume,Miller-Contreras,459.26,4.4,453,True,True,False,True,False,948,2022-02-10 00:00:00
+User5,24,Male,Belgium,Laptop,Johnson and Sons,122.87,3.4,536,True,True,True,True,True,949,2023-08-23 00:00:00
+User9,24,Female,France,Jeans,Novak-Olson,147.84,2.0,30,False,False,True,False,False,950,2023-03-16 00:00:00
+User13,57,Female,Canada,Perfume,"Flores, Juarez and Foley",323.19,3.2,324,True,True,False,False,False,951,2022-11-06 00:00:00
+User4,26,Male,Switzerland,Headphones,Lloyd LLC,200.61,4.7,816,True,False,False,False,False,952,2022-09-13 00:00:00
+User8,24,Female,India,Laptop,Bray PLC,473.78,1.5,834,True,False,False,True,True,953,2023-11-06 00:00:00
+User15,51,Female,Belgium,Jeans,Brown-Miller,433.25,2.5,337,True,True,False,True,False,954,2023-08-08 00:00:00
+User13,37,Female,USA,Shoes,Davidson LLC,188.47,2.2,602,True,True,True,False,False,955,2022-02-27 00:00:00
+User1,53,Male,Japan,Jeans,Rowland-Walker,352.8,1.9,9,True,False,False,False,False,956,2022-07-07 00:00:00
+User11,63,Male,Russia,Perfume,"Clark, Hall and Harmon",239.71,2.2,429,True,False,True,True,True,957,2023-01-31 00:00:00
+User3,43,Female,Japan,Headphones,"Stein, Solomon and Bradley",298.36,1.5,908,False,False,False,True,True,958,2023-01-16 00:00:00
+User4,54,Female,Argentina,T-Shirt,"Mendoza, Mccoy and Coleman",271.61,1.9,232,False,True,True,False,True,959,2023-03-05 00:00:00
+User13,54,Female,Japan,Jeans,Arnold and Sons,211.36,1.6,87,False,True,False,True,True,960,2022-09-14 00:00:00
+User1,61,Male,UK,Smartphone,"Solomon, Conley and Livingston",212.58,2.4,327,False,True,True,False,False,961,2023-05-09 00:00:00
+User5,35,Female,Brazil,T-Shirt,"Arnold, Oconnell and Jones",424.87,2.8,748,False,False,False,True,True,962,2023-07-14 00:00:00
+User11,40,Male,Greece,Perfume,Anderson-Patrick,188.4,4.0,754,False,True,False,True,False,963,2022-08-17 00:00:00
+User6,21,Female,Belgium,Sunglasses,"Berry, Manning and Rodriguez",254.63,1.6,110,True,False,False,False,False,964,2022-09-04 00:00:00
+User12,21,Female,Argentina,Shoes,"Rivera, Davis and Hall",331.84,2.8,828,False,False,False,True,True,965,2022-04-10 00:00:00
+User5,58,Male,Switzerland,Smartphone,Cantu-Fox,216.4,2.5,205,False,True,False,True,True,966,2023-05-06 00:00:00
+User9,33,Male,Switzerland,Sunglasses,Gray-Eaton,489.94,3.3,78,False,True,False,True,False,967,2022-08-29 00:00:00
+User3,42,Male,New Zealand,Perfume,Sanchez and Sons,422.25,4.7,306,False,False,False,True,True,968,2022-11-20 00:00:00
+User3,50,Female,Japan,Laptop,"Potter, Jenkins and Mcintosh",246.25,4.8,807,True,True,False,False,False,969,2022-05-30 00:00:00
+User9,64,Female,Italy,Laptop,Martin LLC,378.17,3.0,265,False,True,False,False,False,970,2022-03-08 00:00:00
+User3,34,Female,Italy,Sunglasses,Morrow PLC,329.88,4.9,410,True,False,True,False,True,971,2023-03-06 00:00:00
+User3,47,Male,France,Shoes,Brooks PLC,23.01,4.1,921,True,True,True,True,True,972,2022-04-02 00:00:00
+User12,63,Male,Russia,Smartphone,Kelly-Molina,129.51,2.3,665,False,False,True,False,False,973,2022-10-25 00:00:00
+User15,25,Female,Brazil,Bag,"Lawson, Morton and Wright",287.43,5.0,692,True,False,False,False,True,974,2023-07-16 00:00:00
+User5,45,Male,New Zealand,Sunglasses,White-Montes,429.33,1.7,176,True,True,True,True,True,975,2023-07-14 00:00:00
+User10,40,Male,UAE,Shoes,Arnold-Wolf,310.83,2.0,902,True,False,True,True,True,976,2023-09-24 00:00:00
+User19,34,Male,USA,Bag,"Harvey, Simmons and Frazier",408.25,3.5,215,True,False,False,False,True,977,2023-03-04 00:00:00
+User20,54,Female,Russia,T-Shirt,"Trujillo, Rose and Davila",34.12,2.3,205,True,True,True,False,True,978,2023-11-05 00:00:00
+User1,55,Female,Canada,Jeans,Wood LLC,28.06,1.3,988,True,False,True,False,False,979,2022-12-10 00:00:00
+User16,43,Male,India,Smartphone,Parsons Group,387.57,4.9,650,False,False,True,True,False,980,2022-10-08 00:00:00
+User15,18,Female,New Zealand,Headphones,Ward-Cruz,155.76,3.3,682,True,False,True,False,False,981,2022-03-19 00:00:00
+User13,60,Male,Japan,Bag,Fletcher-Fitzgerald,215.81,3.7,174,True,True,False,True,True,982,2023-04-27 00:00:00
+User13,32,Female,Russia,Watch,"Coleman, Johnson and Rivera",97.48,4.3,797,False,False,True,True,False,983,2022-05-03 00:00:00
+User14,45,Male,Argentina,Headphones,Williams and Sons,450.56,2.9,127,True,False,False,False,False,984,2022-02-01 00:00:00
+User9,63,Female,New Zealand,Smartphone,Levy-Brooks,450.35,2.6,371,True,True,False,True,False,985,2023-03-31 00:00:00
+User8,51,Female,Russia,Shoes,"Stewart, Hoffman and Livingston",62.85,3.0,304,True,True,True,False,True,986,2022-03-24 00:00:00
+User19,47,Female,India,Perfume,Nichols-Martin,208.5,4.9,902,True,True,False,False,False,987,2022-06-24 00:00:00
+User16,27,Female,Russia,Shoes,"Lewis, Ryan and Henderson",471.72,1.6,889,False,False,True,True,True,988,2022-11-23 00:00:00
+User13,28,Female,India,Jeans,"Dunn, Kane and Black",296.37,1.3,299,True,False,False,True,True,989,2022-10-09 00:00:00
+User15,35,Female,New Zealand,Jeans,"Greene, Johnson and Bullock",288.29,2.0,510,False,True,False,True,False,990,2022-01-22 00:00:00
+User11,43,Male,Argentina,Jeans,Cervantes Inc,332.66,3.0,957,True,False,False,False,True,991,2023-10-30 00:00:00
+User14,34,Male,France,Laptop,Harris-Chen,72.08,1.5,648,False,False,True,False,True,992,2022-12-05 00:00:00
+User4,33,Male,New Zealand,Watch,"Morgan, Wise and Thompson",369.12,3.5,622,True,False,True,False,False,993,2022-08-05 00:00:00
+User5,65,Female,Greece,Smartphone,Mendoza-Castillo,295.59,3.0,376,False,False,True,True,False,994,2022-02-06 00:00:00
+User9,60,Male,Canada,Watch,Graham-Garcia,339.28,2.8,403,True,False,False,True,True,995,2022-08-05 00:00:00
+User3,25,Male,Belgium,Watch,"Jimenez, Noble and Nicholson",372.24,4.7,320,False,True,True,False,False,996,2022-11-02 00:00:00
+User19,42,Male,UK,Shoes,Jenkins-Williams,27.06,4.1,239,False,True,False,False,False,997,2023-09-08 00:00:00
+User7,42,Female,Singapore,T-Shirt,"Leonard, Phillips and Scott",148.12,3.5,449,False,False,False,True,False,998,2023-01-11 00:00:00
+User11,56,Male,Japan,Perfume,Coleman-Savage,481.67,3.6,419,False,True,True,True,True,999,2022-07-02 00:00:00
+User1,52,Female,India,Bag,Wright-Richards,427.96,1.9,25,True,False,False,False,True,1000,2023-01-20 00:00:00
