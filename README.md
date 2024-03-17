@@ -1,2 +1,5 @@
 # EDA_Customer-Segmentation_Brand-Recommendation-Machine
 Customer Segmentation by K-Means Clustering with the help of a transactional dataset between 2022 and 2023. 
+
+
+My main aim was doing Customer Segmentation by K-Means Clustering with the help of a transactional dataset between 2022 and 2023 (a fake dataset created by me just for the project purpose). I also done EDA like descriptive statistics and visualization of the dataset & Brand Recommendation Machine for recommending top brand(s) to customers if searched for an item name. I did feature engineering like RFM Features, Product Diversity, Demographic Features, Product based features, Geographic Features, Behavioral Features & Seasonality & Trends which will help in clustering. Then I did Outlier Detection and Treatment, Correlation Analysis, Feature Scaling, Dimensionality Reduction using PCA for getting much better results while segmenting. Then I apply K-Means Clustering with the help of Elbow Method & Silhouette Method. Then I did clustering evaluation and visualization part. After that I did Brand Recommendation Machine for recommending top brand(s) to the customers.
