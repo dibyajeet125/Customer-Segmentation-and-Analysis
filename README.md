@@ -1,5 +1,5 @@
 # Customer-Segmentation
-Customer Segmentation by K-Means Clustering with the help of a transactional dataset between 2022 and 2023. 
+Customer Segmentation by K-Means Clustering with the help of olist dataset. 
 
 About the Dataset
 
