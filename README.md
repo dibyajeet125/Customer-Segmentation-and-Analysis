@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer-Segmentation-and-Analysis
 Customer Segmentation by K-Means Clustering with the help of olist dataset. 
 
 About the Dataset
